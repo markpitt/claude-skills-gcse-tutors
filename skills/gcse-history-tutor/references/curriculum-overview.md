@@ -1,4 +1,4 @@
-# GCSE History Curriculum Overview (2026)
+# GCSE History Curriculum Overview
 
 ## Assessment Objectives (All Boards)
 
@@ -19,13 +19,13 @@ Ofqual sets consistent AOs across all English GCSE History boards:
 
 ### Paper 1: Understanding the Modern World
 
-**Section A — Period Studies (choose one):**
+**Section A: Period Studies (choose one):**
 - America 1840–1895: Expansion and Consolidation
 - America 1920–1973: Opportunity and Inequality
 - Germany 1890–1945: Democracy and Dictatorship
 - Russia 1894–1945: Tsardom and Communism
 
-**Section B — Wider World Depth Studies (choose one):**
+**Section B: Wider World Depth Studies (choose one):**
 - Conflict and Tension: First World War, 1894–1918
 - Conflict and Tension: Inter-War Years, 1918–1939
 - Conflict and Tension: East and West, 1945–1972 (Cold War)
@@ -34,18 +34,20 @@ Ofqual sets consistent AOs across all English GCSE History boards:
 
 ### Paper 2: Shaping the Nation
 
-**Section A — Thematic Studies (choose one):**
+**Section A: Thematic Studies (choose one):**
 - Health and the People: c1000–present day
 - Power and the People: c1170–present day
 - Migration, Empires and the People: c790–present day
 
-**Section B — British Depth Studies + Historic Environment (choose one):**
-| Option | 2026 Historic Environment Site |
-|--------|-------------------------------|
-| Norman England, c1066–c1100 | Pevensey Castle |
-| Medieval England, the reign of Edward I, 1272–1307 | Caernarfon Castle |
-| Elizabethan England, c1568–1603 | The Globe Theatre |
-| Restoration England, 1660–1685 | Ham House |
+**Section B: British Depth Studies + Historic Environment (choose one):**
+| Option |
+|--------|
+| Norman England, c1066–c1100 |
+| Medieval England, the reign of Edward I, 1272–1307 |
+| Elizabethan England, c1568–1603 |
+| Restoration England, 1660–1685 |
+
+The historic environment site changes every year. `specification-updates.md` lists the sites by exam year.
 
 ---
 
@@ -59,13 +61,13 @@ Ofqual sets consistent AOs across all English GCSE History boards:
 | Paper 2 | 1h 50min | 64 | 40% | Period Study + British Depth Study |
 | Paper 3 | 1h 30min | 52 | 30% | Modern Depth Study |
 
-### Paper 1 — Thematic Study + Historic Environment (choose one group):
+### Paper 1: Thematic Study + Historic Environment (choose one group):
 - Crime and Punishment in Britain, c1000–present *with* Whitechapel c1870–c1900
 - Medicine in Britain, c1250–present *with* The British Sector of the Western Front 1914–18
 - Warfare and British Society, c1250–present *with* London and the Second World War 1939–45
 - Migrants in Britain, c800–present *with* Notting Hill c1948–c1970
 
-### Paper 2 — Period Study + British Depth Study
+### Paper 2: Period Study + British Depth Study
 
 **Period Study (choose one):**
 - Spain and the 'New World', c1490–c1555
@@ -80,7 +82,7 @@ Ofqual sets consistent AOs across all English GCSE History boards:
 - Henry VIII and his Ministers, 1509–40
 - Early Elizabethan England, 1558–88
 
-### Paper 3 — Modern Depth Study (choose one):
+### Paper 3: Modern Depth Study (choose one):
 - Weimar and Nazi Germany, 1918–39
 - Mao's China, 1945–76
 - The USA, 1954–75: Conflict at Home and Abroad
@@ -92,7 +94,7 @@ Ofqual sets consistent AOs across all English GCSE History boards:
 
 OCR offers two distinct specifications:
 
-### OCR History A — Explaining the Modern World (J410)
+### OCR History A: Explaining the Modern World (J410)
 
 | Component | Duration | Weight | Content |
 |-----------|----------|--------|---------|
@@ -109,16 +111,16 @@ OCR offers two distinct specifications:
 - The USA, 1945–74
 
 **British Thematic Study (choose one):**
-- Migration to Britain, c1000 to present
-- The People's Health, c1250 to present
-- Crime and Punishment, c1250 to present
+- Migration to Britain, c1000–present
+- The People's Health, c1250–present
+- Crime and Punishment, c1250–present
 
 **British Depth Study (choose one):**
 - The Norman Conquest, 1065–1087 (Historic Environment: Castles)
 - The Elizabethan Age, 1558–1603
 - The Impact of Empire, 1857–1914
 
-### OCR History B — Schools History Project (J411)
+### OCR History B: Schools History Project (J411)
 
 | Component | Duration | Weight | Content |
 |-----------|----------|--------|---------|
@@ -144,17 +146,18 @@ OCR offers two distinct specifications:
 - The Development of the USA, 1929–2000
 - Germany in Transition, 1919–1939
 
-**Thematic options with 2026–27 Historic Sites:**
-| Theme | 2026–27 Historic Site |
+**Thematic options and historic sites** (2026 and 2027 series; check Eduqas for the sites from 2028):
+
+| Theme | Historic Site |
 |-------|----------------------|
 | Changes in Crime and Punishment | Policing in Liverpool c.1787–1900 |
 | Changes in Health and Medicine | Letchworth Garden City c.1903–present |
 | The Development of Warfare | Royal Dockyards, Chatham c.1567–1984 |
 | Changes in Entertainment and Leisure | Glastonbury Festival c.1970–present |
 
-### WJEC "Made for Wales" (New specification — teaching from September 2026)
+### WJEC "Made for Wales" (New specification: teaching from September 2026)
 
-This is a radically redesigned curriculum for Welsh schools, introducing coursework and a strong focus on Welsh history. **Exams from summer 2027 onwards.**
+This is a radically redesigned curriculum for Welsh schools, introducing coursework and a strong focus on Welsh history. **First awards in summer 2028.**
 
 | Unit | Assessment | Weight | Content |
 |------|-----------|--------|---------|
@@ -179,4 +182,4 @@ These are the conceptual lenses examiners expect students to use in analytical a
 | **Difference** | How were things different? | "Compare X and Y..." |
 | **Significance** | Why does this matter historically? | "How significant was...?" |
 
-Students should use these concepts as analytical frameworks — not just describe events but ask *why* and *so what?*
+Students should use these concepts as analytical frameworks: not just describe events but ask *why* and *so what?*

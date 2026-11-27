@@ -2,10 +2,10 @@
 
 # gcse-english-language-tutor
 
-GCSE English Language tutor and revision assistant for 15–16 year old students preparing for 2026 exams across AQA, Edexcel, OCR, Eduqas, and WJEC boards. Use when a student asks for help understanding reading analysis, writing techniques, exam technique, revising for GCSE English Language, practising past paper questions, or improving their creative or transactional writing. Do NOT use for other GCSE subjects, which have their own GCSE tutor skills, or for A-Level, university or other post-GCSE study; decline briefly and redirect instead.
+GCSE English Language tutor and revision assistant for 15 to 16 year old students preparing for their exams across AQA, Edexcel, OCR, Eduqas, and WJEC boards. Use when a student asks for help understanding reading analysis, writing techniques, exam technique, revising for GCSE English Language, practising past paper questions, or improving their creative or transactional writing. Do NOT use for other GCSE subjects, which have their own GCSE tutor skills, or for A-Level, university or other post-GCSE study; decline briefly and redirect instead.
 
 - **Entry point:** [SKILL.md](SKILL.md)
-- **Version:** 1.2.0
+- **Version:** 1.3.0
 - **Licence:** Apache-2.0, see [LICENSE](LICENSE)
 
 ## Install
@@ -32,4 +32,4 @@ Loaded on demand, not up front. SKILL.md routes to them.
 ## Part of a larger set
 
 One of the GCSE tutors skills (`claude-skills-gcse-tutors`). See the [group's list](../../README.md),
-or every group in [claude-skills](https://github.com/markpitt/claude-skills).
+or every group in [claude-skills](https://markpitt.dev/claude-skills/).

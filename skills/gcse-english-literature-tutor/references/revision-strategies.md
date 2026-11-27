@@ -1,4 +1,4 @@
-# GCSE English Literature: Revision Strategies (2026)
+# GCSE English Literature: Revision Strategies
 
 ---
 
@@ -6,19 +6,19 @@
 
 Unlike English Language, GCSE English Literature requires students to:
 1. **Memorise** key quotations, themes, characters, and context for multiple texts
-2. **Apply** sophisticated analysis to exam questions on those texts — without notes
+2. **Apply** sophisticated analysis to exam questions on those texts: without notes
 
 The most effective revision strategies combine **active recall** (testing memory) with **analytical practice** (applying knowledge to questions).
 
 ---
 
-## Strategy 1: Active Recall — "Blurting"
+## Strategy 1: Active Recall. "Blurting"
 
 **What it is:** A form of active recall that beats passive re-reading.
 
 **How to do it:**
-1. Set a timer for 10–15 minutes
-2. Write down — without notes — everything you remember about one text: themes, characters, key scenes, quotations, context, key writer choices
+1. Set a timer for 10 to 15 minutes
+2. Write down, without notes, everything you remember about one text: themes, characters, key scenes, quotations, context, key writer choices
 3. When the timer ends, check your notes to see what you missed
 4. The gaps you discover ARE your revision targets
 
@@ -28,14 +28,14 @@ The most effective revision strategies combine **active recall** (testing memory
 
 ---
 
-## Strategy 2: Quote Banks — Short, Thematic, Flexible
+## Strategy 2: Quote Banks. Short, Thematic, Flexible
 
-**What to learn:** 8–12 short quotations per text. Not long speeches — short embedded phrases.
+**What to learn:** 8 to 12 short quotations per text. Not long speeches: short embedded phrases.
 
 **How to build a quote bank:**
 1. Organise quotations by **theme** or **character**, not by chapter order
 2. For each quotation, note: (a) what it shows, (b) what technique it uses, (c) one piece of relevant context
-3. Practise embedding quotes in sentences — not copying them out in isolation
+3. Practise embedding quotes in sentences: not copying them out in isolation
 
 **Example format:**
 
@@ -49,11 +49,11 @@ The most effective revision strategies combine **active recall** (testing memory
 
 ---
 
-## Strategy 3: The Rule of Three — Essay Planning
+## Strategy 3: The Rule of Three. Essay Planning
 
 **What it is:** Plan every essay with exactly three analytical points, each tracking how a theme or character develops across the text.
 
-**Why three:** It forces you to cover the beginning, middle, and end of the text — proving whole-text understanding. Examiners specifically note responses that only draw on one part of a text.
+**Why three:** It forces you to cover the beginning, middle, and end of the text. Proving whole-text understanding. Examiners specifically note responses that only draw on one part of a text.
 
 **How to use it:**
 1. Choose a theme or character
@@ -62,13 +62,13 @@ The most effective revision strategies combine **active recall** (testing memory
 4. Decide which contextual detail links to each point
 5. Write a thesis statement that captures the overall argument across all three points
 
-**Example for *Macbeth* — theme of guilt:**
+**Example for *Macbeth*: theme of guilt:**
 
 | Point | Quotation | Context |
 |-------|----------|---------|
 | Beginning: guilt as external hallucination ("Is this a dagger...") | "a dagger of the mind, a false creation" | Jacobean belief in supernatural manifestations of guilt |
-| Middle: guilt rendering Macbeth incapable of peace | "Macbeth shall sleep no more" | Sleep as innocence and rest — the loss of it = total moral collapse |
-| End: guilt destroying Lady Macbeth more completely | "Out, damned spot!" | The reversal — she who felt no guilt now cannot escape it |
+| Middle: guilt rendering Macbeth incapable of peace | "Macbeth shall sleep no more" | Sleep as innocence and rest: the loss of it = total moral collapse |
+| End: guilt destroying Lady Macbeth more completely | "Out, damned spot!" | The reversal: she who felt no guilt now cannot escape it |
 
 **Thesis:** "Shakespeare presents guilt as an inescapable psychological force, using supernatural imagery to externalise what Macbeth and Lady Macbeth cannot name, ultimately showing that attempting to silence conscience only amplifies it."
 
@@ -76,7 +76,7 @@ The most effective revision strategies combine **active recall** (testing memory
 
 ## Strategy 4: Timed Practice Under Exam Conditions
 
-Regular time-pressured practice is essential. Literature essays **cannot** be improved only by reading about how to write them — students must write them under pressure.
+Regular time-pressured practice is essential. Literature essays **cannot** be improved only by reading about how to write them: students must write them under pressure.
 
 **Minimum practice targets:**
 - 2 full essays per text (one per week in the final month)
@@ -92,11 +92,11 @@ Regular time-pressured practice is essential. Literature essays **cannot** be im
 
 ---
 
-## Strategy 5: Poetry Revision — Poem Pairs
+## Strategy 5: Poetry Revision. Poem Pairs
 
 For **poetry anthology** questions, the exam will always ask students to compare a named poem with another of their choice. Effective revision means knowing which poems pair well on which themes.
 
-**Prepare 3–4 "poem pairs" in advance** for each likely theme:
+**Prepare 3 to 4 "poem pairs" in advance** for each likely theme:
 
 | Theme | Strong Pairs (Power and Conflict) |
 |-------|----------------------------------|
@@ -106,7 +106,7 @@ For **poetry anthology** questions, the exam will always ask students to compare
 | Arrogance and the fall of power | *Ozymandias* + *My Last Duchess* |
 | Identity under oppression | *Checking Out Me History* + *London* |
 
-Revise each pair together — know their differences (form, speaker, time period) as well as similarities (theme, imagery).
+Revise each pair together: know their differences (form, speaker, time period) as well as similarities (theme, imagery).
 
 ---
 
@@ -122,19 +122,19 @@ Writing a history lesson rather than integrating context into analysis. Examiner
 ### 2. Feature Spotting
 Identifying a technique without analysing its effect. "There is a metaphor here" = 0 analysis marks.
 
-**Fix:** After every technique you name, ask "So what does this create/imply/suggest?" — write the answer.
+**Fix:** After every technique you name, ask "So what does this create/imply/suggest?". Write the answer.
 
 ---
 
 ### 3. Narrative/Plot Retelling
-Summarising what happens in the text rather than analysing how and why it is written. This is AO1 at its most basic — it earns few marks on its own.
+Summarising what happens in the text rather than analysing how and why it is written. This is AO1 at its most basic: it earns few marks on its own.
 
 **Fix:** Every sentence should be about the **writer's choices**, not the character's actions. Replace "Macbeth kills Duncan" with "Shakespeare presents Macbeth's murder of Duncan as psychologically devastating..."
 
 ---
 
 ### 4. Rigid Formula Over Genuine Analysis
-Sticking so strictly to PEED (or PETAL) that every paragraph sounds mechanical. Examiners note that formulaic responses rarely reach the top band — they want "conceptualised" reading.
+Sticking so strictly to PEED (or PETAL) that every paragraph sounds mechanical. Examiners note that formulaic responses rarely reach the top band: they want "conceptualised" reading.
 
 **Fix:** Use PEED as scaffolding, not a cage. Once paragraphs are structurally sound, experiment with weaving analysis more fluidly.
 
@@ -150,7 +150,7 @@ Using a memorised introduction that doesn't engage with the specific question. F
 ### 6. Only Using the Provided Extract (Paper 1)
 For extract-based questions, students who only write about the extract lose marks that are available for whole-text analysis. AQA and other boards explicitly reward discussion of the wider text.
 
-**Fix:** Use the extract as a "springboard" — analyse 2–3 key moments from it, then deliberately reference the beginning, middle, and end of the whole text.
+**Fix:** Use the extract as a "springboard". Analyse 2 to 3 key moments from it, then deliberately reference the beginning, middle, and end of the whole text.
 
 ---
 
@@ -165,8 +165,8 @@ Never reference plot details, scenes, or characterisation that appears only in a
 
 | Week | Focus |
 |------|-------|
-| 1–2 | Build quote banks for all texts; create theme maps per text |
-| 3–4 | Practice essays: one per text, focused on weakest themes |
+| 1 to 2 | Build quote banks for all texts; create theme maps per text |
+| 3 to 4 | Practice essays: one per text, focused on weakest themes |
 | 5 | Unseen poetry technique; timed practice on poetry comparison |
 | 6 | Full timed paper under exam conditions (Paper 1) |
 | 7 | Full timed paper under exam conditions (Paper 2) |
@@ -179,7 +179,7 @@ Never reference plot details, scenes, or characterisation that appears only in a
 | 1 | Finalise quote banks; rule-of-three plans for every likely question type |
 | 2 | One short essay per text (45 min); focus on AO2 and thesis statements |
 | 3 | Full timed practice paper; poetry comparison practice |
-| 4 | Light consolidation only — no new learning. Trust the preparation. |
+| 4 | Light consolidation only: no new learning. Trust the preparation. |
 
 ---
 
@@ -197,6 +197,6 @@ These are trusted educational resources for GCSE English Literature revision:
 | **Quizlet** | Flashcard sets for quotation memorisation (search for specific texts) |
 | **Seneca Learning** | Free adaptive revision quizzes aligned to GCSE content |
 
-**Emma Halpin (YouTube/TikTok):** Well-known for "quote songs" — short musical pieces setting key quotations to familiar tunes, useful for memorisation.
+**Emma Halpin (YouTube/TikTok):** Well-known for "quote songs". Short musical pieces setting key quotations to familiar tunes, useful for memorisation.
 
 Always use official exam board resources (e.g., **aqa.org.uk/english-literature**) to confirm set text lists, past papers, and specimen mark schemes.

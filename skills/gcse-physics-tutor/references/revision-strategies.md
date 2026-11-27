@@ -1,8 +1,8 @@
-# Revision Strategies for GCSE Physics (2026)
+# Revision Strategies for GCSE Physics
 
 ## Why Passive Revision Doesn't Work
 
-Re-reading notes or highlighting textbooks feels productive but does very little for long-term retention. Information only moves into long-term memory when you actively *retrieve* it. Physics is particularly demanding because it combines conceptual understanding with mathematical problem-solving — both need different practice strategies.
+Re-reading notes or highlighting textbooks feels productive but does very little for long-term retention. Information only moves into long-term memory when you actively *retrieve* it. Physics is particularly demanding because it combines conceptual understanding with mathematical problem-solving: both need different practice strategies.
 
 ---
 
@@ -25,7 +25,7 @@ Instead of reading, close your notes and write down or say out loud everything y
 
 ### 2. Spaced Repetition with the 2357 Schedule
 
-Don't revise a topic once and move on — revisit it at increasing intervals to beat the "Forgetting Curve".
+Don't revise a topic once and move on: revisit it at increasing intervals to beat the "Forgetting Curve".
 
 **The 2357 schedule:**
 - Study the topic on **Day 0**
@@ -39,18 +39,18 @@ Don't revise a topic once and move on — revisit it at increasing intervals to 
 
 ---
 
-### 3. Calculation Practice — Daily FIFA Drills
+### 3. Calculation Practice: Daily FIFA Drills
 
 Physics is heavily mathematical. The best way to get faster and more confident at calculations is deliberate, timed practice.
 
-**Daily drill routine (15–20 minutes):**
+**Daily drill routine (15 to 20 minutes):**
 1. Pick a topic area (e.g. energy, electricity, forces)
-2. Do 5–10 calculation questions from past papers or a revision resource
-3. Mark your own work strictly — every missing unit is a mark lost
+2. Do 5 to 10 calculation questions from past papers or a revision resource
+3. Mark your own work strictly: every missing unit is a mark lost
 4. For any wrong answers, redo using FIFA step-by-step and work out where you went wrong
 
 **Key skills to drill:**
-- Rearranging equations (speed this up — it's the most common stumbling block)
+- Rearranging equations (speed this up: it's the most common stumbling block)
 - Unit conversions (g to kg, cm to m, kJ to J, km/h to m/s)
 - Reading values from graphs (gradient, area under graph)
 - Multi-step problems that chain two equations
@@ -64,7 +64,7 @@ Explain a concept as if you're teaching it to a 10-year-old. Where you struggle 
 **How to use it for Physics:**
 1. Pick a difficult concept (e.g. electromagnetic induction, nuclear fission)
 2. Try to explain it out loud in simple language without notes
-3. Where you use vague words ("it changes" / "it does something") — that's your gap
+3. Where you use vague words ("it changes" / "it does something"): that's your gap
 4. Return to your notes, fill the gap, then re-explain
 5. A good analogy = deep understanding
 
@@ -75,10 +75,10 @@ Explain a concept as if you're teaching it to a 10-year-old. Where you struggle 
 Past papers are the single most reliable way to know if you're ready. Do them under timed conditions using your equation sheet (as you will in the exam).
 
 **Where to find them:**
-- AQA: aqa.org.uk — free mark schemes included
-- PMT Education (physicsandmathstutor.com) — organised by topic
-- Save My Exams (savemyexams.com) — topic-by-topic practice questions and mark schemes
-- Physics & Maths Tutor — comprehensive topic question banks
+- AQA: aqa.org.uk. Free mark schemes included
+- PMT Education (physicsandmathstutor.com): organised by topic
+- Save My Exams (savemyexams.com): topic-by-topic practice questions and mark schemes
+- Physics & Maths Tutor: full topic question banks
 
 **How to use them:**
 1. Set a timer and work in exam conditions (no notes except the equation sheet)
@@ -111,21 +111,21 @@ Physics has many diagrams that appear directly in exam questions:
 
 **The method:**
 - Set a timer for **25 minutes** of focused work (phone away, notifications off)
-- After 25 minutes, take a **5-minute break** (walk, drink water — not social media)
-- After four Pomodoros, take a 15–20 minute break
+- After 25 minutes, take a **5-minute break** (walk, drink water: not social media)
+- After four Pomodoros, take a 15 to 20 minute break
 
-**Why it works:** Short bursts of focus prevent mental fatigue and make long revision sessions manageable. Physics — especially calculations — requires concentration in shorter, sharper sessions rather than slow, passive reading.
+**Why it works:** Short bursts of focus prevent mental fatigue and make long revision sessions manageable. Physics, especially calculations, requires concentration in shorter, sharper sessions rather than slow, passive reading.
 
 ---
 
 ## Building a Revision Timetable for Physics
 
-### Step 1 — Find Out Your Exam Dates
-- AQA Physics 8463: check aqa.org.uk/key-dates for confirmed 2026 dates
-- Paper 1 covers Topics 1–4; Paper 2 covers Topics 5–8
+### Step 1: Find Out Your Exam Dates
+- Look up each paper's date on your board's published timetable (the links are in the skill's exam dates section), and put them at the top of the plan
+- Paper 1 covers Topics 1 to 4; Paper 2 covers Topics 5 to 8
 - Allow extra preparation time in the week before each paper
 
-### Step 2 — Identify Your Weakest Topics
+### Step 2: Identify Your Weakest Topics
 Work through the curriculum overview (`references/curriculum-overview.md`) and mark each topic:
 - Red = I can't do this at all
 - Amber = I understand it but make mistakes
@@ -133,20 +133,20 @@ Work through the curriculum overview (`references/curriculum-overview.md`) and m
 
 Prioritise red topics in your early revision weeks. Return to green topics closer to the exam to maintain them.
 
-### Step 3 — Allocate Time per Week
+### Step 3: Allocate Time per Week
 
 | Weeks to exam | Daily revision recommended |
 |---------------|--------------------------|
-| 12+ weeks | 30–45 minutes per subject |
-| 8–11 weeks | 45–60 minutes per subject |
-| 4–7 weeks | 60–90 minutes per subject |
-| 1–3 weeks | 90+ minutes on physics; heavy past paper focus |
+| 12+ weeks | 30 to 45 minutes per subject |
+| 8 to 11 weeks | 45 to 60 minutes per subject |
+| 4 to 7 weeks | 60 to 90 minutes per subject |
+| 1 to 3 weeks | 90+ minutes on physics; heavy past paper focus |
 
-### Step 4 — Structure Each Session
+### Step 4: Structure Each Session
 - 5 min: active recall of previous session's material (no notes)
 - 10 min: calculation drill using FIFA on a topic from the current paper
 - 25 min: new material or concept revision (diagrams, definitions, apply the Feynman technique)
-- 10 min: 2–3 past paper questions on today's topic
+- 10 min: 2 to 3 past paper questions on today's topic
 - 5 min: update your weakness list
 
 ---
@@ -156,7 +156,7 @@ Prioritise red topics in your early revision weeks. Return to green topics close
 ### Using the Equation Sheet Efficiently
 - Print or use a copy of the real equation sheet during every practice session
 - Practise finding equations under time pressure
-- Do NOT just learn what the letters mean — practise *applying* them with numbers
+- Do NOT just learn what the letters mean: practise *applying* them with numbers
 - Understand when you need to rearrange (e.g. finding mass from kinetic energy)
 
 ### Common Weak Areas (Focus extra time here)
@@ -192,11 +192,11 @@ Examiners award marks for precise language. Learn these exactly:
 
 ## Recommended Free Resources
 
-- **BBC Bitesize GCSE Physics** — concise topic summaries and quizzes
-- **Save My Exams** — topic-by-topic questions with detailed mark schemes
-- **PMT Education (physicsandmathstutor.com)** — past papers and notes organised by exam board
-- **Freesciencelessons (YouTube)** — clear, comprehensive AQA Physics video lessons
-- **Physics Online (YouTube)** — detailed tutorials on difficult topics including Higher Tier
-- **AQA website** — official specification, past papers, and mark schemes
-- **GCSEPod** — short audio/video bites ideal for spaced repetition
-- **Cognito (YouTube)** — animated GCSE Physics summaries, great for visual learners
+- **BBC Bitesize GCSE Physics**: concise topic summaries and quizzes
+- **Save My Exams**: topic-by-topic questions with detailed mark schemes
+- **PMT Education (physicsandmathstutor.com)**: past papers and notes organised by exam board
+- **Freesciencelessons (YouTube)**: clear, full AQA Physics video lessons
+- **Physics Online (YouTube)**: detailed tutorials on difficult topics including Higher Tier
+- **AQA website**: official specification, past papers, and mark schemes
+- **GCSEPod**: short audio/video bites ideal for spaced repetition
+- **Cognito (YouTube)**: animated GCSE Physics summaries, great for visual learners

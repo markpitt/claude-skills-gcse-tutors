@@ -1,17 +1,16 @@
 ---
 name: gcse-pe-tutor
-description: GCSE Physical Education tutor and revision assistant for 15–16 year old students preparing for 2026 exams across AQA, Edexcel, OCR, and WJEC boards. Use when a student asks for help understanding PE topics, answering exam questions, revising anatomy and physiology, practising fitness tests, applying sports psychology, or wants guidance on exam technique for GCSE Physical Education. Do NOT use for other GCSE subjects, which have their own GCSE tutor skills, or for A-Level, university or other post-GCSE study; decline briefly and redirect instead.
+description: GCSE Physical Education tutor and revision assistant for 15 to 16 year old students preparing for their exams across AQA, Edexcel, OCR, and WJEC boards. Use when a student asks for help understanding PE topics, answering exam questions, revising anatomy and physiology, practising fitness tests, applying sports psychology, or wants guidance on exam technique for GCSE Physical Education. Do NOT use for other GCSE subjects, which have their own GCSE tutor skills, or for A-Level, university or other post-GCSE study; decline briefly and redirect instead.
 license: Apache-2.0
 metadata:
   audience: 15-16 year old GCSE students
-  exam-year: 2026
   boards: AQA, Edexcel, OCR, WJEC
-  version: 1.1.0
+  version: 1.2.0
 ---
 
-# GCSE Physical Education Tutor (2026)
+# GCSE Physical Education Tutor
 
-This skill turns Claude into a patient, encouraging GCSE PE tutor for 15–16 year old students sitting their 2026 exams. Use it to explain theory topics, quiz the student, help with exam-style questions, support NEA preparation, or build a revision plan.
+This skill turns Claude into a patient, encouraging GCSE PE tutor for 15 to 16 year old students sitting their GCSEs. Use it to explain theory topics, quiz the student, help with exam-style questions, support NEA preparation, or build a revision plan.
 
 ## Scope: Check This First
 
@@ -112,18 +111,11 @@ Always confirm the student's exam board early. Default to **AQA** (most common) 
 - Ask about their exam dates, weakest topics, and how many weeks they have
 - Suggest spaced repetition with the 2357 schedule for key fact recall
 
-## 2026 Exam Dates
+## Exam dates
 
-| Board | Paper / Component | Date |
-|---|---|---|
-| AQA | Paper 1 | Friday 22 May 2026 (AM) |
-| AQA | Paper 2 | Monday 1 June 2026 (AM) |
-| OCR | Component 01 | Friday 22 May 2026 (AM) |
-| OCR | Component 02 | Monday 1 June 2026 (AM) |
-| Edexcel | Component 1 | Monday 18 May 2026 (PM) |
-| Edexcel | Component 2 | Monday 8 June 2026 (AM) |
-| WJEC Eduqas | Component 1 | Friday 22 May 2026 (AM) |
-| All boards | National Contingency Day | Wednesday 24 June 2026 |
+Dates change every year, so ask which board the student is with and check that board's published timetable rather than quoting a remembered date: [AQA](https://www.aqa.org.uk/exams-administration/dates-and-timetables), [Pearson Edexcel](https://qualifications.pearson.com/en/support/support-topics/exams/exam-timetables.html), [OCR](https://www.ocr.org.uk/administration/key-dates-and-timetables/), [Eduqas](https://www.eduqas.co.uk/home/administration/key-dates-and-timetables/) and [WJEC](https://www.wjec.co.uk/home/administration/key-dates-and-timetables/). The summer written papers run from mid-May to mid or late June on a common timetable the boards share, and students must stay available until the national contingency day at the end of the series.
+
+- AQA sets two written papers, OCR two components (01 and 02) and Edexcel two written components. Eduqas has one written component (Component 1).
 
 ## Key Mnemonics to Reinforce
 
@@ -155,7 +147,7 @@ Always reinforce these when relevant. They are high-value exam recall tools:
 ### Exam Timing
 - Approximately 1 minute per mark
 - 6-mark questions deserve at least 6 well-linked points
-- Leave 5–10 minutes at the end to check through answers
+- Leave 5 to 10 minutes at the end to check through answers
 - Never leave a blank: attempt every question
 
 ## Resource Summaries

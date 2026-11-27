@@ -1,10 +1,10 @@
-# GCSE Maths Curriculum Overview (2026)
+# GCSE Maths Curriculum Overview
 
 All exam boards follow the same national curriculum for GCSE Mathematics. The six core domains below are assessed by every board; tier and board differences are noted where they exist.
 
 ---
 
-## Domain 1 — Number
+## Domain 1: Number
 
 ### Foundation and Higher
 - Types of number: integers, decimals, fractions, surds (Higher), rational/irrational
@@ -28,7 +28,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 
 ---
 
-## Domain 2 — Algebra
+## Domain 2: Algebra
 
 ### Foundation and Higher
 - Algebraic notation and conventions
@@ -39,10 +39,10 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 - Linear sequences: nth term formula (nth term = a + (n-1)d)
 - Solving linear equations (one and two-step; with unknowns on both sides; with brackets)
 - Solving linear inequalities; representing solutions on a number line
-- Simultaneous equations — linear: elimination and substitution methods
+- Simultaneous equations: linear: elimination and substitution methods
 - Quadratic equations: factorising, using the quadratic formula (on formula sheet)
 - Graphs of straight lines: y = mx + c; finding gradient and y-intercept; equation of a line through two points
-- Graphs of quadratics, cubics, reciprocals, and exponentials — shape and key features
+- Graphs of quadratics, cubics, reciprocals, and exponentials: shape and key features
 - Real-life graphs: distance-time, velocity-time, conversion graphs
 - Plotting and interpreting scatter graphs
 
@@ -65,7 +65,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 
 ---
 
-## Domain 3 — Ratio, Proportion, and Rates of Change
+## Domain 3: Ratio, Proportion, and Rates of Change
 
 ### Foundation and Higher
 - Writing and simplifying ratios
@@ -77,7 +77,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 - Density, mass, volume: density = mass / volume
 - Pressure, force, area: pressure = force / area
 - Percentage increase and decrease; multipliers; compound and simple interest
-- Scale factors; similar shapes — lengths, areas, and volumes
+- Scale factors; similar shapes: lengths, areas, and volumes
 - Converting between units: metric, imperial, area, and volume
 - Rate of change from graphs
 
@@ -89,7 +89,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 
 ---
 
-## Domain 4 — Geometry and Measures
+## Domain 4: Geometry and Measures
 
 ### Foundation and Higher
 - Properties of 2D shapes: triangles (scalene, isosceles, equilateral, right-angled), quadrilaterals (square, rectangle, parallelogram, rhombus, trapezium, kite), regular and irregular polygons
@@ -103,8 +103,8 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 - Circumference of a circle: C = 2 pi r = pi d
 - 3D shapes: names, properties, nets; surface area and volume of cuboids, prisms, pyramids, cylinders, cones, spheres (formulae on sheet)
 - Plans and elevations (2D representations of 3D shapes)
-- Pythagoras' Theorem: a^2 + b^2 = c^2 (must memorise — NOT on formula sheet)
-- Trigonometry (right-angled triangles): SOH CAH TOA — finding missing sides and angles
+- Pythagoras' Theorem: a^2 + b^2 = c^2 (must memorise. NOT on formula sheet)
+- Trigonometry (right-angled triangles): SOH CAH TOA. Finding missing sides and angles
 - Transformations: translation (using a column vector), reflection (in lines including y=x, y=-x), rotation (centre, direction, angle), enlargement (positive scale factor, centre of enlargement)
 - Congruence and similarity; similar triangles
 - Loci and construction: perpendicular bisector, angle bisector, equidistant from a point, equidistant from a line
@@ -119,7 +119,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 - Cosine rule: a^2 = b^2 + c^2 - 2bc cosA (on formula sheet)
 - Area of a non-right-angled triangle: A = 0.5 ab sinC
 - Trigonometry in 3D (Pythagoras and trig across three dimensions)
-- Circle theorems (all 8 — must be able to state and use):
+- Circle theorems (all 8: must be able to state and use):
   1. Angle at centre = twice angle at circumference (same arc)
   2. Angles in the same segment are equal
   3. Angle in a semicircle = 90 degrees
@@ -134,7 +134,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 
 ---
 
-## Domain 5 — Probability
+## Domain 5: Probability
 
 ### Foundation and Higher
 - Probability scale: 0 (impossible) to 1 (certain)
@@ -155,7 +155,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 
 ---
 
-## Domain 6 — Statistics
+## Domain 6: Statistics
 
 ### Foundation and Higher
 - Collecting data: types of data (discrete, continuous, qualitative, quantitative), sampling methods
@@ -175,7 +175,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 
 ## Foundation vs Higher Summary
 
-| Content type | Foundation (grades 1–5) | Higher (grades 4–9) |
+| Content type | Foundation (grades 1 to 5) | Higher (grades 4 to 9) |
 |-------------|------------------------|---------------------|
 | Number | Core arithmetic, fractions, percentages, standard form, basic indices | Plus surds, upper/lower bounds, recurring decimals to fractions |
 | Algebra | Linear equations, quadratics by factorising, straight-line graphs, basic sequences | Plus algebraic fractions, completing the square, functions, iteration, transformations of graphs |
@@ -188,7 +188,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 
 ## Board-Specific Notes
 
-### AQA (8300) — Most common UK board
+### AQA (8300): Most common UK board
 - Straightforward question style, broadly accessible
 - Higher tier introduces surds, algebraic fractions, circle theorems, and vectors
 - AQA questions are often more direct; less interpretation-heavy for Foundation
@@ -200,7 +200,7 @@ All exam boards follow the same national curriculum for GCSE Mathematics. The si
 
 ### OCR (J560)
 - Content split labelled "Initial Learning", "Foundation tier learning", "Higher tier learning"
-- Does NOT use formal f(x) function notation or formal Venn diagram set notation at any level — describe using words and diagrams only
+- Does NOT use formal f(x) function notation or formal Venn diagram set notation at any level: describe using words and diagrams only
 - OCR Paper 1 is calculator; Paper 2 is non-calculator (opposite order to AQA/Edexcel)
 
 ### Eduqas (Wales only)

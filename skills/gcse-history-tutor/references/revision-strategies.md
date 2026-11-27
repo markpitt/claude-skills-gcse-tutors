@@ -1,12 +1,12 @@
-# GCSE History Revision Strategies (2026)
+# GCSE History Revision Strategies
 
 ## Core Principle: Active Recall Over Passive Review
 
 The biggest revision mistake is re-reading notes. Passive revision (re-reading, highlighting) creates an *illusion* of knowledge. Active recall (forcing your brain to retrieve information without looking) builds genuine long-term memory.
 
 For GCSE History specifically:
-- You must recall *specific* dates, names, statistics, and sequences — not vague impressions
-- You must be able to *apply* that knowledge analytically — not just list it
+- You must recall *specific* dates, names, statistics, and sequences: not vague impressions
+- You must be able to *apply* that knowledge analytically: not just list it
 - Revision and practice must include exam-technique work, not just content learning
 
 ---
@@ -14,22 +14,22 @@ For GCSE History specifically:
 ## Revision Techniques
 
 ### 1. The Blurting Method (Best for building knowledge)
-1. Set a timer for 5–10 minutes
+1. Set a timer for 5 to 10 minutes
 2. Write everything you know about a topic (e.g., "Causes of the First World War") without looking at notes
 3. Stop when the timer finishes
 4. Go back to your notes and highlight everything you *missed*
-5. Rest for a day, then repeat — focus your next blurt on the gaps
+5. Rest for a day, then repeat: focus your next blurt on the gaps
 
 Why it works: Forces retrieval, immediately shows knowledge gaps, builds confidence as gaps close.
 
 ### 2. Spaced Repetition with Flashcards
 Key for high-volume fact recall (dates, names, key legislation, statistics):
 1. Create one flashcard per fact: front = question, back = answer
-2. Test yourself daily — correct cards go in the "later" pile, wrong cards stay in "daily" pile
+2. Test yourself daily: correct cards go in the "later" pile, wrong cards stay in "daily" pile
 3. Review "later" cards weekly
 4. Add new cards as you cover new topics
 
-**Top Seneca Learning** (free) automatically applies spaced repetition — use it for GCSE History topic quizzes.
+**Top Seneca Learning** (free) automatically applies spaced repetition: use it for GCSE History topic quizzes.
 
 Most important facts to memorise by flashcard for common topics:
 - **Germany/Weimar:** 1919 (Treaty), 1923 (Hyperinflation + Munich Putsch), 1929 (Depression), 1933 (Hitler Chancellor + Enabling Act), 1934 (Night of the Long Knives + Führer)
@@ -41,7 +41,7 @@ For essay and explanation questions:
 1. Take a past-paper question
 2. Set a 5-minute timer
 3. Write *only* a plan: paragraph topics, one piece of evidence per paragraph, overall judgement
-4. Do NOT write the essay — just the plan
+4. Do NOT write the essay: just the plan
 5. Compare your plan to a model answer or mark scheme
 
 Why it works: Practising planning is what actually builds essay structure skill. Writing 10 plans is more effective than writing 3 full essays.
@@ -74,13 +74,13 @@ Teach a topic to a real or imagined person with no history knowledge. If you can
 ## Revision Timetable Principles
 
 ### When to Start
-- For May/June 2026 exams: begin structured revision by February half-term at the latest
-- Light revision from January is ideal — even 20 minutes a night
+- For May/June exams: begin structured revision by February half-term at the latest
+- Light revision from January is ideal: even 20 minutes a night
 
 ### How to Structure Sessions
 - **Short sessions beat long ones:** 3 × 30-minute sessions in a day is more effective than one 90-minute block
 - **Vary technique:** content recall → practice question → mark scheme review in one 90-minute block
-- **Topic rotation:** don't revise the same topic two days in a row — interleaving is better for memory
+- **Topic rotation:** don't revise the same topic two days in a row. Interleaving is better for memory
 
 ### Sample 4-Week Revision Block
 
@@ -101,7 +101,7 @@ Teach a topic to a real or imagined person with no history knowledge. If you can
 |----------|---------|------|
 | **Seneca Learning** | Spaced repetition quizzes, board-specific content, GCSE History podcasts | senecalearning.com |
 | **Save My Exams** | Detailed revision notes, past paper questions by topic, "Smart Mark" AI feedback | savemyexams.com |
-| **GCSEPod** | Short audio-visual "pods" — great for learning on the go | gcsepod.com |
+| **GCSEPod** | Short audio-visual "pods": great for learning on the go | gcsepod.com |
 | **BBC Bitesize** | Topic summaries and interactive quizzes | bbc.co.uk/bitesize |
 | **Quizlet** | Create custom flashcard decks | quizlet.com |
 
@@ -118,10 +118,10 @@ Teach a topic to a real or imagined person with no history knowledge. If you can
 
 | Podcast | Best for |
 |---------|---------|
-| *REVISE GCSE History* — Seneca Learning | Short topic summaries and revision tips |
-| *The GCSE History Revision Podcast* — Mr W | AQA-focused; essay technique and content |
+| *REVISE GCSE History*: Seneca Learning | Short topic summaries and revision tips |
+| *The GCSE History Revision Podcast*: Mr W | AQA-focused; essay technique and content |
 | *Mr Allsop History Revision Podcasts* | Mixed board coverage |
-| *History GCSE Revision* — Oxford Revise | Knowledge-focused, concise |
+| *History GCSE Revision*: Oxford Revise | Knowledge-focused, concise |
 
 ### Revision Guides (Physical Books)
 
@@ -137,7 +137,7 @@ Teach a topic to a real or imagined person with no history knowledge. If you can
 
 ### Germany / Weimar and Nazi Germany (Most Commonly Studied)
 - Prioritise: causes of Weimar's collapse, Hitler's consolidation of power, life in Nazi Germany
-- Key dates: 1919, 1923, 1929, 1933, 1934 — must be known precisely
+- Key dates: 1919, 1923, 1929, 1933, 1934. Must be known precisely
 - Common exam mistake: describing Weimar problems without linking them to how Hitler exploited them
 - Use the "consolidation of power" timeline: Reichstag Fire → Enabling Act → death of Hindenburg → Führer
 
@@ -145,17 +145,17 @@ Teach a topic to a real or imagined person with no history knowledge. If you can
 - Learn each crisis as a cause-consequence chain: don't just list events
 - Key crises: Berlin Blockade 1948–49, Korean War 1950–53, Berlin Wall 1961, Cuban Missile Crisis 1962, Détente 1970s
 - Common exam mistake: confusing the causes of the Cold War with individual crises
-- Use the "arms/space race" as a thread connecting 1945 to 1991
+- Use the "arms/space race" as a thread connecting 1945–1991
 
 ### Medicine Through Time
 - Organise by era AND by theme (surgery, public health, disease causes, treatments)
 - Key individuals: Hippocrates, Galen, Harvey, Jenner, Pasteur, Lister, Fleming, Nightingale
-- Common exam mistake: treating Florence Nightingale's impact as worldwide (AQA 2026: her influence is focused on Britain only)
+- Common exam mistake: treating Florence Nightingale's impact as worldwide (AQA: her influence is focused on Britain only)
 - For Edexcel Paper 1/Paper 3 thematic questions, always address change AND continuity
 
 ### Source Analysis Topics (Historic Environment)
-- The Historic Environment question requires specific knowledge of the designated site — revise it thoroughly
-- For AQA 2026: know Pevensey Castle, Caernarfon Castle, The Globe, or Ham House (depending on your British Depth Study)
+- The Historic Environment question requires specific knowledge of the designated site: revise it thoroughly
+- For AQA: know your year's site for your British Depth Study. The sites change every year, and `specification-updates.md` lists them
 - Use primary sketches, descriptions, and historians' accounts about the site
 - Link the physical evidence of the site to the historical events of the period
 

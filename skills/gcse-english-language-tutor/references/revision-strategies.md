@@ -1,8 +1,8 @@
-# Revision Strategies for GCSE English Language (2026)
+# Revision Strategies for GCSE English Language
 
 ## Why English Language Revision Is Different
 
-Unlike subjects with a fixed body of content to memorise, English Language tests transferable skills applied to *unseen* texts. You cannot revise "the answer" — but you can:
+Unlike subjects with a fixed body of content to memorise, English Language tests transferable skills applied to *unseen* texts. You cannot revise "the answer": but you can:
 - Build a toolkit of analytical techniques
 - Practise reading quickly and writing under pressure
 - Strengthen technical accuracy so SPaG errors stop costing marks
@@ -14,7 +14,7 @@ The core revision strategy is **deliberate practice under timed conditions**.
 
 ## The Most Common Reasons Students Drop Marks (Examiner Reports)
 
-Address these first — they are the biggest sources of lost marks:
+Address these first: they are the biggest sources of lost marks:
 
 ### 1. Feature-Spotting Without Analysis
 Students write: "The writer uses a metaphor."
@@ -25,7 +25,7 @@ Examiners want: "The metaphor of '...' implies [connotation], which creates [eff
 ### 2. Time Mismanagement
 Spending 30+ minutes on Q1–Q3 and leaving only 15 minutes for the 40-mark writing task is the most damaging mistake.
 
-**Fix:** Practise timed papers regularly. Stick to the time allocation (see `references/exam-techniques.md`). The writing section is worth 50% of each paper — it must not be rushed.
+**Fix:** Practise timed papers regularly. Stick to the time allocation (see `references/exam-techniques.md`). The writing section is worth 50% of each paper: it must not be rushed.
 
 ### 3. Technical Accuracy (SPaG) Errors
 Comma splicing, tense shifts, and missing apostrophes cost marks in every piece of writing.
@@ -38,7 +38,7 @@ Students write about Text A for four paragraphs, then Text B for four paragraphs
 **Fix:** Practise writing comparison paragraphs that address *both texts in every paragraph*, using: "Similarly...", "Whereas...", "In contrast to [Writer A]...".
 
 ### 5. Misreading the Question
-A question about "challenges" in a text rewards only answers that discuss challenges — not general analysis.
+A question about "challenges" in a text rewards only answers that discuss challenges: not general analysis.
 
 **Fix:** Underline the key words in every question before writing. Return to those words at the start of each paragraph.
 
@@ -54,12 +54,12 @@ Pick any unseen text (newspaper article, short story extract, autobiography) and
 3. Write a timed analysis paragraph (10 minutes)
 4. Compare to a model answer from a revision resource
 
-Do this 3–4 times a week in the months before the exam.
+Do this 3 to 4 times a week in the months before the exam.
 
 **Sources for practice texts:**
 - AQA's published past papers (free at aqa.org.uk)
 - BBC News and The Guardian for contemporary non-fiction
-- 19th-century texts: Project Gutenberg (free) — try Dickens journalism, Victorian travel writing
+- 19th-century texts: Project Gutenberg (free). Try Dickens journalism, Victorian travel writing
 
 ---
 
@@ -70,10 +70,10 @@ Take a paragraph written at a basic level and upgrade it:
 **Basic (Grade 4):**
 "The writer uses a metaphor. This is effective because it describes the setting."
 
-**Upgraded (Grade 6–7):**
+**Upgraded (Grade 6 to 7):**
 "The metaphor 'the city was a machine that never slept' suggests the dehumanising relentlessness of urban life, placing the narrator in a world that operates without care for human needs. This creates unease, as the reader senses the narrator's powerlessness from the opening lines."
 
-Practise upgrading 3–4 paragraphs per revision session.
+Practise upgrading 3 to 4 paragraphs per revision session.
 
 ---
 
@@ -98,10 +98,10 @@ Past papers are the single most reliable revision tool.
 
 **Where to find them:**
 - AQA: aqa.org.uk/english (free, with mark schemes)
-- Save My Exams (savemyexams.com) — topic-by-topic questions
-- PMT Education (physicsandmathstutor.com) — past papers by board
-- BBC Bitesize — practice questions and model answers
-- Seneca Learning — interactive quizzes
+- Save My Exams (savemyexams.com): topic-by-topic questions
+- PMT Education (physicsandmathstutor.com): past papers by board
+- BBC Bitesize: practice questions and model answers
+- Seneca Learning: interactive quizzes
 
 **How to use past papers:**
 1. Attempt under timed conditions (no notes, no phone)
@@ -112,7 +112,7 @@ Past papers are the single most reliable revision tool.
 
 ---
 
-### 5. Writing Practice — Feedback Loop
+### 5. Writing Practice: Feedback Loop
 
 The writing sections (40 marks each paper) are often underprepared. Students practise reading analysis but neglect timed writing.
 
@@ -132,7 +132,7 @@ The writing sections (40 marks each paper) are often underprepared. Students pra
 
 ### 6. Spaced Repetition for Terminology
 
-Subject terminology for English Language should be revised using spaced repetition — revisiting terms at increasing intervals so they move to long-term memory.
+Subject terminology for English Language should be revised using spaced repetition: revisiting terms at increasing intervals so they move to long-term memory.
 
 **The 2357 schedule:**
 - Learn a set of terms on Day 0
@@ -153,13 +153,12 @@ Use flashcards (physical or Anki app) with the device name on one side and a def
 
 ## Building a Revision Timetable
 
-### Step 1 — Know Your Exam Dates
-- AQA Paper 1 (Fiction/Creative): Thursday 21 May 2026
-- AQA Paper 2 (Non-Fiction/Transactional): Friday 5 June 2026
+### Step 1: Know Your Exam Dates
+- Look up each paper's date on your board's published timetable (the links are in the skill's exam dates section), and put them at the top of the plan
 
-You will also have other subjects — space sessions accordingly.
+You will also have other subjects: space sessions accordingly.
 
-### Step 2 — Self-Assess Your Weaknesses
+### Step 2: Self-Assess Your Weaknesses
 Rate yourself on each skill area:
 
 | Skill | Red (weak) | Amber (developing) | Green (secure) |
@@ -174,14 +173,14 @@ Rate yourself on each skill area:
 
 Spend more time on red areas.
 
-### Step 3 — Suggested Session Structure (60 minutes)
+### Step 3: Suggested Session Structure (60 minutes)
 
 | Time | Activity |
 |------|---------|
-| 0–10 min | Active recall: terminology quiz (cover answers, test yourself) |
-| 10–30 min | Timed reading + analysis paragraph (unseen text) |
-| 30–55 min | Timed writing practice (creative or transactional) |
-| 55–60 min | Self-mark and update weakness list |
+| 0 to 10 min | Active recall: terminology quiz (cover answers, test yourself) |
+| 10 to 30 min | Timed reading + analysis paragraph (unseen text) |
+| 30 to 55 min | Timed writing practice (creative or transactional) |
+| 55 to 60 min | Self-mark and update weakness list |
 
 ### Suggested Weekly Rhythm (8+ weeks out)
 
@@ -198,11 +197,11 @@ Spend more time on red areas.
 
 ## Recommended Free Resources
 
-- **BBC Bitesize GCSE English Language** — topic summaries, quizzes, and sample answers
-- **Save My Exams** — topic-by-topic questions with mark schemes
-- **PMT Education (physicsandmathstutor.com)** — past papers by exam board
-- **Seneca Learning** — interactive revision
-- **AQA website (aqa.org.uk)** — free official past papers and mark schemes
-- **Mr Salles Teaches English (YouTube)** — highly regarded AQA-focused exam technique videos
-- **English With Ms Harris (YouTube)** — clear language and structure analysis walkthroughs
-- **GCSE English Language Revision Guide (CGP or Oxford Revise)** — physical/digital study guide
+- **BBC Bitesize GCSE English Language**: topic summaries, quizzes, and sample answers
+- **Save My Exams**: topic-by-topic questions with mark schemes
+- **PMT Education (physicsandmathstutor.com)**: past papers by exam board
+- **Seneca Learning**: interactive revision
+- **AQA website (aqa.org.uk)**: free official past papers and mark schemes
+- **Mr Salles Teaches English (YouTube)**: highly regarded AQA-focused exam technique videos
+- **English With Ms Harris (YouTube)**: clear language and structure analysis walkthroughs
+- **GCSE English Language Revision Guide (CGP or Oxford Revise)**: physical/digital study guide

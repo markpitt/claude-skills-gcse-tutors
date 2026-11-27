@@ -1,4 +1,4 @@
-# GCSE Physical Education — Curriculum Overview (2026)
+# GCSE Physical Education: Curriculum Overview
 
 The GCSE PE qualification is split into **60% theory** (written exams) and **40% Non-Examined Assessment (NEA)** for AQA, Edexcel, and OCR. WJEC Eduqas differs: 40% written, 60% NEA.
 
@@ -8,7 +8,7 @@ The GCSE PE qualification is split into **60% theory** (written exams) and **40%
 
 Two 1h 30min theory papers, each worth 30%. Both papers assess all topics.
 
-### Paper 1 — The human body and movement in physical activity and sport
+### Paper 1: The human body and movement in physical activity and sport
 
 **Applied Anatomy and Physiology**
 - Skeleton: functions (support, protection, movement, blood cell production, mineral storage), bone types, axial vs appendicular skeleton
@@ -27,7 +27,7 @@ Two 1h 30min theory papers, each worth 30%. Both papers assess all topics.
 - Long-term adaptations: cardiac hypertrophy, increased stroke volume, increased lung capacity, muscle hypertrophy, increased bone density
 
 **Movement Analysis**
-- Lever systems: first class (EFL), second class (FLE), third class (FEL) — identify fulcrum, effort, load
+- Lever systems: first class (EFL), second class (FLE), third class (FEL). Identify fulcrum, effort, load
 - Sporting examples: 1st class = heading a football; 2nd class = rising on toes (ballet/gymnastics); 3rd class = bicep curl, forehand tennis stroke
 - Mechanical advantage: 2nd class levers; speed advantage: 3rd class levers
 - Planes of movement: sagittal (forward/back), frontal (side to side), transverse (rotational)
@@ -54,8 +54,8 @@ Two 1h 30min theory papers, each worth 30%. Both papers assess all topics.
 | Coordination | Wall Toss Test | Throw and catch a ball against a wall |
 | Reaction time | Ruler Drop Test | Catch a dropped ruler as fast as possible |
 
-- Principles of training: **SPORT** — Specificity, Progressive Overload, Reversibility, Tedium (variety)
-- Principles of overload: **FITT** — Frequency, Intensity, Time, Type
+- Principles of training: **SPORT**. Specificity, Progressive Overload, Reversibility, Tedium (variety)
+- Principles of overload: **FITT**. Frequency, Intensity, Time, Type
 - Training methods:
 
 | Method | Best for | Description |
@@ -73,7 +73,7 @@ Two 1h 30min theory papers, each worth 30%. Both papers assess all topics.
 
 ---
 
-### Paper 2 — Socio-cultural influences and well-being in physical activity and sport
+### Paper 2: Socio-cultural influences and well-being in physical activity and sport
 
 **Sports Psychology**
 - Skill classification continua: open vs closed, basic vs complex, gross vs fine, self-paced vs externally paced
@@ -103,14 +103,14 @@ Two 1h 30min theory papers, each worth 30%. Both papers assess all topics.
 | Anabolic steroids | Muscle growth | Liver damage, aggression, infertility |
 | Beta-blockers | Reduce anxiety/heart rate | Banned in precision sports (archery, snooker) |
 | Stimulants | Increased alertness, reduced fatigue | Heart problems, addiction |
-| Peptide hormones (EPO) | Increased red blood cell production | Blood thickens — increased clotting/stroke risk |
+| Peptide hormones (EPO) | Increased red blood cell production | Blood thickens: increased clotting/stroke risk |
 | Narcotic analgesics | Painkilling | Masking injuries, addiction |
 
 **Health, Fitness, and Wellbeing**
 - Three dimensions of health: physical, emotional/mental, social
 - Benefits of exercise: reduced CHD risk, weight management, stress reduction, serotonin release, social interaction, improved self-esteem
 - Consequences of sedentary lifestyle: obesity, Type 2 diabetes, high blood pressure, poor mental health, decreased mobility
-- Somatotypes: ectomorph (thin/light build), endomorph (round/higher body fat), mesomorph (muscular) — link to sporting demands
+- Somatotypes: ectomorph (thin/light build), endomorph (round/higher body fat), mesomorph (muscular). Link to sporting demands
 - Diet and nutrition macronutrients:
   - Carbohydrates: primary energy source for high-intensity exercise
   - Fats: energy for low-intensity, long-duration activity; insulation; fat-soluble vitamins
@@ -145,12 +145,12 @@ Two components: **Component 1** (36%) focuses on Fitness and Body Systems; **Com
 
 Two components each worth 30%, covering theory content broadly equivalent to AQA and Edexcel.
 
-**Component 01 — Physical factors affecting performance:**
+**Component 01: Physical factors affecting performance:**
 - Cardiovascular and respiratory systems
 - Musculoskeletal system, movement analysis, lever systems
 - Physical training, fitness testing
 
-**Component 02 — Socio-cultural issues and sports psychology:**
+**Component 02: Socio-cultural issues and sports psychology:**
 - Participation barriers, commercialisation, ethics, drugs
 - Sports psychology: goal setting, guidance, feedback, mental preparation
 
@@ -174,8 +174,8 @@ Students are assessed in **three sporting activities**:
 - One from either category
 
 Plus a written coursework project:
-- **AQA / OCR:** Analysis and Evaluation of Performance (AEP) — evaluate a performance in one activity and plan how to improve it
-- **Edexcel:** Personal Exercise Programme (PEP) — design and evaluate a 6-week training programme
+- **AQA / OCR:** Analysis and Evaluation of Performance (AEP). Evaluate a performance in one activity and plan how to improve it
+- **Edexcel:** Personal Exercise Programme (PEP). Design and evaluate a 6-week training programme
 
 ### WJEC Eduqas
 - Two performances (or one performance + one coaching role)

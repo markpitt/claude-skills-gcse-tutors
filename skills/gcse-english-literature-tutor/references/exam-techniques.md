@@ -1,4 +1,4 @@
-# GCSE English Literature: Exam Techniques (2026)
+# GCSE English Literature: Exam Techniques
 
 ---
 
@@ -8,10 +8,10 @@
 |----|--------------|----------------|
 | **AO1** | Informed personal response with a clear critical argument; use of textual evidence | ~25% |
 | **AO2** | Analyse language, form, and structure; use relevant subject terminology | ~50% of reading marks |
-| **AO3** | Understanding of context — how time, place, and society shape the text | ~25% |
-| **AO4** | Written accuracy — vocabulary range, sentence structures, spelling, punctuation | Assessed across all |
+| **AO3** | Understanding of context: how time, place, and society shape the text | ~25% |
+| **AO4** | Written accuracy: vocabulary range, sentence structures, spelling, punctuation | Assessed across all |
 
-**The most important insight for students:** AO2 (analysis of writer's methods) is worth the most marks. Most students write notes about *what* a text says rather than *how* the writer creates meaning. Shift every response toward "How does the writer..."
+**The most important insight for students:** AO2 (analysis of writer's methods) is worth the most marks. Most students write notes about *what* a text says rather than *how* the writer creates meaning. Shift every response towards "How does the writer..."
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### The Thesis-Led Essay (All Texts, All Boards)
 
-Every response should begin with a **thesis statement** — a clear, direct answer to the question in 1–2 sentences. Never use: "In this essay I will..." or "This is a text about...". Go straight to the argument.
+Every response should begin with a **thesis statement**: a clear, direct answer to the question in 1 to 2 sentences. Never use: "In this essay I will..." or "This is a text about...". Go straight to the argument.
 
 **Example question:** *How does Priestley present the theme of responsibility in An Inspector Calls?*
 
@@ -40,13 +40,13 @@ PEED is a scaffold for building body paragraphs. Confident writers can go beyond
 | **Explain** | What the language/technique does; what it suggests | "...the dehumanising language suggests Birling views workers as replaceable commodities rather than people with rights." |
 | **Develop** | Contextual link, alternative reading, or link back to thesis | "Writing in 1945, Priestley uses Birling's attitude to critique pre-war Edwardian capitalism and argue for the socialist welfare state being constructed at the time." |
 
-**Moving beyond PEED:** The best responses don't follow a rigid formula — they weave evidence and analysis fluidly. Use PEED to build the habit, then develop a more exploratory style.
+**Moving beyond PEED:** The best responses don't follow a rigid formula. They weave evidence and analysis fluidly. Use PEED to build the habit, then develop a more exploratory style.
 
 ---
 
 ### Conclusion
 
-- 2–3 sentences only
+- 2 to 3 sentences only
 - Restate the thesis using different words
 - Refer back to the key question words
 - Optionally: offer a final alternative reading or acknowledge ambiguity in the text
@@ -112,12 +112,12 @@ Context earns marks only when it is directly tied to how the writer presents a s
 
 ## Poetry Techniques: The Four Components Framework
 
-For **unseen poetry** and **anthology analysis**, use this framework to ensure comprehensive coverage:
+For **unseen poetry** and **anthology analysis**, use this framework so nothing is missed:
 
 ### 1. Form
 - What type of poem is this? (sonnet, dramatic monologue, free verse, ode, elegy)
 - How many stanzas? What is the stanza length and regularity?
-- Does the form reinforce or challenge the meaning? (A chaotic, irregular sonnet about war — why?)
+- Does the form reinforce or challenge the meaning? (A chaotic, irregular sonnet about war: why?)
 
 ### 2. Structural Techniques
 - **Volta** (turning point): Where does the poem shift in tone, perspective, or argument?
@@ -135,7 +135,7 @@ For **unseen poetry** and **anthology analysis**, use this framework to ensure c
 - **Metaphor and simile**: What is being compared, and what does the comparison reveal?
 - **Personification**: What human quality is being given to an object/idea?
 - **Symbolism**: What do the central images represent beyond their literal meaning?
-- **Sensory imagery**: sight, sound, touch, taste, smell — which senses are engaged and why?
+- **Sensory imagery**: sight, sound, touch, taste, smell. Which senses are engaged and why?
 
 ---
 
@@ -143,15 +143,15 @@ For **unseen poetry** and **anthology analysis**, use this framework to ensure c
 
 ### The Structure for a Comparison Essay
 
-1. **Thematic opening statement** (1–2 sentences): Connect both poems around the central theme of the question. Do not summarise — argue.
+1. **Thematic opening statement** (1 to 2 sentences): Connect both poems around the central theme of the question. Do not summarise: argue.
 
 2. **Analyse Poem A** (full paragraph with PEED): Focus on the named/printed poem first if one is provided. Include form, structure, and language.
 
-3. **Bridge sentence**: Natural connective that moves from Poem A to Poem B — "Similarly, [Poet B]..." or "In contrast, [Poet B]..."
+3. **Bridge sentence**: Natural connective that moves from Poem A to Poem B. "Similarly, [Poet B]..." or "In contrast, [Poet B]..."
 
 4. **Analyse Poem B** (full paragraph with PEED): Same depth as Poem A. Do not simply repeat the same structure description.
 
-5. **Comparative paragraph or woven comparison**: Find a specific point of comparison — a technique used in both poems to opposite or similar effect.
+5. **Comparative paragraph or woven comparison**: Find a specific point of comparison. A technique used in both poems to opposite or similar effect.
 
 6. **Comparative conclusion**: Evaluate which poem most powerfully/effectively conveys the theme and why.
 
@@ -171,11 +171,11 @@ For **unseen poetry** and **anthology analysis**, use this framework to ensure c
 
 | Band | AO1 | AO2 | AO3 |
 |------|-----|-----|-----|
-| High (22–30) | Perceptive, conceptualised argument | Analyses effects of specific methods; sophisticated terminology | Context woven naturally into analysis |
-| Mid (13–21) | Developed, relevant response | Explains methods; explains effects | Some relevant context included |
-| Low (0–12) | Narrative/general response | Identifies techniques only | Little or no context |
+| High (22 to 30) | Perceptive, conceptualised argument | Analyses effects of specific methods; sophisticated terminology | Context woven naturally into analysis |
+| Mid (13 to 21) | Developed, relevant response | Explains methods; explains effects | Some relevant context included |
+| Low (0 to 12) | Narrative/general response | Identifies techniques only | Little or no context |
 
-**What "conceptualised" means:** The response has a central, controlling argument (a thesis) that all points support — not a list of separate observations, but a coherent reading of the whole text.
+**What "conceptualised" means:** The response has a central, controlling argument (a thesis) that all points support. Not a list of separate observations, but a coherent reading of the whole text.
 
 ---
 
@@ -186,7 +186,7 @@ For **unseen poetry** and **anthology analysis**, use this framework to ensure c
 |---------|-------|---------------|
 | Section A (Shakespeare) | 34 marks | ~50 minutes |
 | Section B (19th-century novel) | 30 marks | ~45 minutes |
-| Planning + reading | — | ~10 minutes total |
+| Planning + reading | - | ~10 minutes total |
 
 ### AQA Paper 2 (2h 15min, 96 marks)
 | Section | Marks | Suggested Time |
@@ -194,9 +194,9 @@ For **unseen poetry** and **anthology analysis**, use this framework to ensure c
 | Section A (Modern text) | 34 marks | ~45 minutes |
 | Section B (Poetry comparison) | 30 marks | ~40 minutes |
 | Section C (Unseen poetry) | 32 marks | ~40 minutes |
-| Planning + reading | — | ~10 minutes total |
+| Planning + reading | - | ~10 minutes total |
 
-**Key principle:** Always plan your essay for 3–5 minutes before writing. A planned essay scores more marks in the same time than an unplanned one.
+**Key principle:** Always plan your essay for 3 to 5 minutes before writing. A planned essay scores more marks in the same time than an unplanned one.
 
 ---
 
@@ -215,9 +215,9 @@ For **unseen poetry** and **anthology analysis**, use this framework to ensure c
 | **Enjambment** | When a sentence or phrase continues past the end of a line without a pause |
 | **Pathetic fallacy** | Using weather or nature to reflect a character's emotional state |
 | **Juxtaposition** | Placing contrasting ideas, images, or characters side by side for effect |
-| **Sibilance** | Repeated 's' sounds — can suggest softness, danger, or hissing |
+| **Sibilance** | Repeated 's' sounds: can suggest softness, danger, or hissing |
 | **Caesura** | A pause in the middle of a line of poetry (often marked by punctuation) |
 | **Hubris** | Excessive pride leading to a character's downfall (key in tragedy) |
 | **Catharsis** | The emotional release experienced by the audience at the end of a tragedy |
 
-**Caution:** Never use terminology just to show you know it. Every term must be followed by analysis of its effect. "There is sibilance here" earns nothing — "The sibilance of 'the sinuous snake slid silently' creates a sense of menacing, predatory stealth" earns marks.
+**Caution:** Never use terminology just to show you know it. Every term must be followed by analysis of its effect. "There is sibilance here" earns nothing: "The sibilance of 'the sinuous snake slid silently' creates a sense of menacing, predatory stealth" earns marks.

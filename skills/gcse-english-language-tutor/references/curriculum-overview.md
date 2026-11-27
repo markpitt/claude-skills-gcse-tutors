@@ -1,4 +1,4 @@
-# GCSE English Language Curriculum Overview (2026)
+# GCSE English Language Curriculum Overview
 
 ## AQA GCSE English Language (8700)
 
@@ -6,50 +6,46 @@ All students sit the same untiered exams (no Foundation/Higher split). Both pape
 
 ### Paper 1: Explorations in Creative Reading and Writing
 
-**Section A — Reading (40 marks)**
+**Section A: Reading (40 marks)**
 One unseen 20th- or 21st-century fiction extract.
 
 | Q | Marks | Task |
 |---|-------|------|
 | Q1 | 4 | Multiple choice: basic retrieval from the text |
 | Q2 | 8 | Language analysis: how does the writer use language in lines X–Y? |
-| Q3 | 8 | Structure analysis: how does the writer structure the text to create a specific effect (e.g. mystery, suspense, unease)? **2026 change:** Q3 now names the specific effect students must address — answers must stay focused on that stated effect, not structure in general. |
+| Q3 | 8 | Structure analysis: how does the writer structure the text to create a specific effect (e.g. mystery, suspense, unease)? **Changed from 2026:** Q3 now names the specific effect students must address. Answers must stay focused on that stated effect, not structure in general. |
 | Q4 | 20 | Evaluation: to what extent do you agree with the statement about the text? |
 
-**Section B — Writing (40 marks)**
-Creative writing — choose ONE from two options:
+**Section B: Writing (40 marks)**
+Creative writing: choose ONE from two options:
 - Option 1: Descriptive writing (usually inspired by an image)
 - Option 2: Narrative writing (continue a story / write the opening)
 
-Marks: 24 for AO5 (content and organisation) + 16 for AO6 (technical accuracy — SPaG)
+Marks: 24 for AO5 (content and organisation) + 16 for AO6 (technical accuracy. SPaG)
 
 ---
 
 ### Paper 2: Writers' Viewpoints and Perspectives
 
-**Section A — Reading (40 marks)**
-Two unseen linked non-fiction or literary non-fiction texts — one 19th-century, one 20th/21st-century.
+**Section A: Reading (40 marks)**
+Two unseen linked non-fiction or literary non-fiction texts: one 19th-century, one 20th/21st-century.
 
 | Q | Marks | Task |
 |---|-------|------|
 | Q1 | 4 | Basic comprehension: list/identify true statements |
-| Q2 | 8 | Summary/inference: synthesis of both texts on a given theme. **2026 change:** Reworded to explicitly state that students must *infer*, not just retrieve. |
+| Q2 | 8 | Summary/inference: synthesis of both texts on a given theme. **Changed from 2026:** Reworded to explicitly state that students must *infer*, not just retrieve. |
 | Q3 | 12 | Language analysis: how does writer A use language to convey X? |
 | Q4 | 16 | Comparison: writers' perspectives and methods compared across both texts |
 
-**Section B — Writing (40 marks)**
+**Section B: Writing (40 marks)**
 Transactional/persuasive writing with a specific viewpoint and audience. Common formats: speech, newspaper article, letter, leaflet.
 
 Marks: 24 for AO5 + 16 for AO6
 
 ---
 
-### 2026 AQA Exam Dates
-- **Paper 1** (Fiction and Creative Writing): Thursday 21 May 2026, morning
-- **Paper 2** (Non-Fiction and Transactional Writing): Friday 5 June 2026, morning
-- Contingency day: Wednesday 24 June 2026
-
----
+### Exam dates
+Exam dates change every year: check the board's own timetable ([AQA](https://www.aqa.org.uk/exams-administration/dates-and-timetables), [Pearson Edexcel](https://qualifications.pearson.com/en/support/support-topics/exams/exam-timetables.html), [OCR](https://www.ocr.org.uk/administration/key-dates-and-timetables/), [Eduqas](https://www.eduqas.co.uk/home/administration/key-dates-and-timetables/) and [WJEC](https://www.wjec.co.uk/home/administration/key-dates-and-timetables/)) rather than quoting a remembered date.
 
 ## Edexcel GCSE English Language
 
@@ -59,7 +55,7 @@ Edexcel currently runs two distinct specifications. Check which the student's sc
 - **Paper 1** (1h 45m, 40%): 19th-century fiction + imaginative writing
 - **Paper 2** (2h 5m, 60%): 20th/21st-century non-fiction + transactional writing
 
-### Edexcel 2.0 (1EN2) — newer specification
+### Edexcel 2.0 (1EN2): newer specification
 Both papers are **1 hour 55 minutes**, equally weighted at 80 marks (50%) each.
 
 **Paper 1: Non-Fiction Texts**
@@ -78,24 +74,24 @@ Both components are **2 hours**, equally weighted at 80 marks (50%) each. OCR pa
 
 ### Component 01: Communicating Information and Ideas
 
-**Section A — Reading:**
-Two unseen non-fiction texts — one 19th-century, one 20th/21st-century.
+**Section A: Reading:**
+Two unseen non-fiction texts: one 19th-century, one 20th/21st-century.
 - Language and structure analysis
 - High-tariff evaluation question: respond to a statement about both texts
 
-**Section B — Writing:**
+**Section B: Writing:**
 One original piece of non-fiction writing for a specified audience and purpose (essay, journalism, speech).
 
 ---
 
 ### Component 02: Exploring Effects and Impact
 
-**Section A — Reading:**
-Two unseen prose texts — both 20th/21st-century (one may be literary non-fiction).
+**Section A: Reading:**
+Two unseen prose texts: both 20th/21st-century (one may be literary non-fiction).
 - Language and structure analysis
-- Critical evaluation with "critical distance" — balancing personal response with detached overview
+- Critical evaluation with "critical distance": balancing personal response with detached overview
 
-**Section B — Writing:**
+**Section B: Writing:**
 One original piece of creative writing.
 
 ---
@@ -108,9 +104,9 @@ Eduqas (administered by WJEC, used primarily in England) uses a three-component 
 
 **Weighting:** 40% | **Duration:** 1 hour 45 minutes
 
-**Section A — Reading:** One 20th-century fictional prose extract. Questions test comprehension, language analysis, and structure.
+**Section A: Reading:** One 20th-century fictional prose extract. Questions test comprehension, language analysis, and structure.
 
-**Section B — Writing:** Creative prose writing. Students choose from **four narrative writing titles** — the widest selection of any exam board, allowing students to pick topics that suit their strengths.
+**Section B: Writing:** Creative prose writing. Students choose from **four narrative writing titles**: the widest selection of any exam board, allowing students to pick topics that suit their strengths.
 
 ---
 
@@ -118,9 +114,9 @@ Eduqas (administered by WJEC, used primarily in England) uses a three-component 
 
 **Weighting:** 60% (highest non-fiction weighting of any board) | **Duration:** 2 hours
 
-**Section A — Reading:** Two non-fiction texts — one 19th-century, one 21st-century. Students compare ideas, perspectives, and methods.
+**Section A: Reading:** Two non-fiction texts. One 19th-century, one 21st-century. Students compare ideas, perspectives, and methods.
 
-**Section B — Writing:** **Two shorter transactional/persuasive tasks** (e.g., a letter and a speech) rather than one extended piece — tests a wider range of formats and purposes.
+**Section B: Writing:** **Two shorter transactional/persuasive tasks** (e.g., a letter and a speech) rather than one extended piece. Tests a wider range of formats and purposes.
 
 ---
 
@@ -128,44 +124,38 @@ Eduqas (administered by WJEC, used primarily in England) uses a three-component 
 
 - Formal presentation/speech including listening and responding to questions
 - Graded separately: **Pass, Merit, Distinction, or Not Classified**
-- Does **not** count toward the 9–1 grade
-- Submission deadline: **5 May 2026**
-
-### 2026 Eduqas Exam Dates
-- **Component 1** (20th-century fiction): Thursday 21 May 2026, morning
-- **Component 2** (Non-fiction): Friday 5 June 2026, morning
-- Contingency day: Wednesday 24 June 2026
+- Does **not** count towards the 9 to 1 grade
+- Submission deadline: early May, set by the board (check with the teacher)
 
 ---
 
 ## WJEC GCSE English Language (Wales only)
 
-2026 is a transitional year in Wales. Two parallel pathways are running simultaneously.
+Wales is moving from the legacy WJEC GCSE English Language to the integrated "Made for Wales" GCSE English Language and Literature, taught from September 2025 with first awards in 2027. Ask which one the student is on.
 
-### Legacy WJEC GCSE English Language — Final Year
-Summer 2026 is the **last full assessment opportunity** for the legacy qualification.
+### Legacy WJEC GCSE English Language
+
+No new students start it. Students already on it may still be resitting units, and WJEC lists resit opportunities up to June 2027.
 
 - **Unit 1**: Oracy (non-exam assessment)
-- **Unit 2**: Reading and writing exam (same date as Eduqas Component 1 — 21 May 2026)
-- **Unit 3**: Reading and writing exam (same date as Eduqas Component 2 — 5 June 2026)
+- **Unit 2**: Reading and writing exam
+- **Unit 3**: Reading and writing exam
 
-### New "Made for Wales" GCSE English Language and Literature
+### "Made for Wales" GCSE English Language and Literature
 
-A new unitized qualification replacing the legacy spec. Year 10 students taking the new path in 2026 sit:
+A unitised qualification, available as a double or single award, with exam units and NEA:
 
-| Unit | Format | Date |
-|------|--------|------|
-| **Unit 1 (Context and Meaning)** | 1h 30m written exam — poetry (anthology + unseen) and creative writing | 15 May 2026, morning |
-| **Unit 2 (Belonging)** | NEA — prose text study and individual oracy task | Submitted by deadline |
-| **Unit 3 (Influence and Power)** | NEA — non-fiction portfolio and group discussion | Submitted by deadline |
+| Unit | Format |
+|------|--------|
+| **Unit 1 (Context and Meaning)** | 1h 30m written exam: poetry (anthology and unseen) and creative writing |
+| **Unit 2 (Belonging)** | NEA: prose text study and individual oracy task |
+| **Unit 3 (Influence and Power)** | NEA: non-fiction portfolio and group discussion |
 
-*Units 4–6 are not available until 2027 or November 2026.*
+Check WJEC's specification for the later units and when each unit can be sat.
 
-### Key WJEC/Eduqas Admin Dates 2026
-- 21 February 2026: Last date for summer entry submissions
-- 24 March 2026: Deadline for moderation samples (oracy NEAs)
-- 5 May 2026: Spoken Language submission deadline (Eduqas)
-- **20 August 2026**: Results Day
+### Dates
+
+Exam dates change every year: check the board's own timetable ([AQA](https://www.aqa.org.uk/exams-administration/dates-and-timetables), [Pearson Edexcel](https://qualifications.pearson.com/en/support/support-topics/exams/exam-timetables.html), [OCR](https://www.ocr.org.uk/administration/key-dates-and-timetables/), [Eduqas](https://www.eduqas.co.uk/home/administration/key-dates-and-timetables/) and [WJEC](https://www.wjec.co.uk/home/administration/key-dates-and-timetables/)) rather than quoting a remembered date. Entry, moderation and NEA deadlines are set by the school as well as the board, so check with the teacher.
 
 ---
 
@@ -173,7 +163,7 @@ A new unitized qualification replacing the legacy spec. Year 10 students taking 
 
 - Compulsory non-exam assessment: a formal presentation followed by a Q&A session
 - Graded separately as **Pass, Merit, or Distinction**
-- Does **not** contribute to the final 9–1 GCSE grade
+- Does **not** contribute to the final 9 to 1 GCSE grade
 - Must be completed; failure to do so may affect certification
 
 ---

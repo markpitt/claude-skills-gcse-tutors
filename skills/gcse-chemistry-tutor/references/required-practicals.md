@@ -1,4 +1,4 @@
-# AQA GCSE Chemistry Required Practicals (2026)
+# AQA GCSE Chemistry Required Practicals
 
 Practical skills account for at least **15% of all exam marks**. There is no separate practical exam, but questions about these practicals appear in both Papers 1 and 2.
 
@@ -6,16 +6,16 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 
 ---
 
-## Practical 1 — Making Salts
+## Practical 1: Making Salts
 
 **Topic:** Chemical Changes (Paper 1)
 
 **What you do:**
 1. Add excess insoluble metal oxide or carbonate to dilute acid (e.g. copper oxide + sulfuric acid)
-2. Stir and gently warm using a water bath (not Bunsen — avoids spattering acid)
+2. Stir and gently warm using a water bath (not Bunsen: avoids spattering acid)
 3. Filter off the excess solid using filter paper and a funnel
 4. Pour the filtrate (the salt solution) into an evaporating dish
-5. Heat gently using a water bath until most water has evaporated — leave a smaller volume
+5. Heat gently using a water bath until most water has evaporated: leave a smaller volume
 6. Leave to cool and crystallise; filter off crystals and dry on filter paper
 
 **Key variables:**
@@ -24,22 +24,22 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 - Control: temperature, quantity of acid
 
 **Common exam questions:**
-- "Why was excess copper oxide added?" — to ensure all the acid reacts; pH paper could confirm
-- "Why is the salt solution evaporated slowly rather than fully boiled dry?" — rapid evaporation causes uneven crystals; boiling might decompose or discolour the salt
-- "Name the salt produced when copper oxide reacts with sulfuric acid" — copper sulfate
+- "Why was excess copper oxide added?": to make sure all the acid reacts; pH paper could confirm
+- "Why is the salt solution evaporated slowly rather than fully boiled dry?": rapid evaporation causes uneven crystals; boiling might decompose or discolour the salt
+- "Name the salt produced when copper oxide reacts with sulfuric acid": copper sulfate
 
 ---
 
-## Practical 2 — Titration (Neutralisation)
+## Practical 2: Titration (Neutralisation)
 
-**Topic:** Chemical Changes (Paper 1) — **Separate Chemistry only**
+**Topic:** Chemical Changes (Paper 1). **Separate Chemistry only**
 
 **What you do:**
 1. Use a pipette to measure a fixed volume (e.g. 25 cm³) of alkali into a conical flask
 2. Add a few drops of indicator (e.g. phenolphthalein or methyl orange)
 3. Fill a burette with the acid; record the initial burette reading
 4. Add the acid dropwise, swirling constantly
-5. Observe the colour change (endpoint) — this indicates neutralisation
+5. Observe the colour change (endpoint): this indicates neutralisation
 6. Record the final burette reading; calculate the titre: Vol used = Final − Initial
 7. Repeat to get concordant results (within 0.1 cm³ of each other); calculate a mean titre
 
@@ -49,14 +49,14 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 - Control: volume of alkali used, concentration of solutions, type of indicator
 
 **Common exam questions:**
-- "Why is a white tile placed under the conical flask?" — makes the colour change easier to see
-- "Why is the first rough titre not included in the mean?" — it may not be precise enough; used to estimate the endpoint only
-- "Phenolphthalein changes from pink to colourless in acid. What does this indicate?" — the solution has become acidic; the alkali has been fully neutralised
-- "What is a concordant titre?" — results within 0.1 cm³ of each other; shows repeatable, reliable results
+- "Why is a white tile placed under the conical flask?": makes the colour change easier to see
+- "Why is the first rough titre not included in the mean?": it may not be precise enough; used to estimate the endpoint only
+- "Phenolphthalein changes from pink to colourless in acid. What does this indicate?": the solution has become acidic; the alkali has been fully neutralised
+- "What is a concordant titre?": results within 0.1 cm³ of each other; shows repeatable, reliable results
 
 ---
 
-## Practical 3 — Electrolysis
+## Practical 3: Electrolysis
 
 **Topic:** Chemical Changes (Paper 1)
 
@@ -64,22 +64,22 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 1. Set up a simple electrolysis cell: two inert electrodes (graphite or platinum) in an electrolyte solution (e.g. copper sulfate, sodium chloride, sulfuric acid)
 2. Connect to a DC power supply
 3. Observe what is produced at each electrode
-4. Test products: glowing splint at anode (oxygen relight?); lit splint near cathode (hydrogen — squeaky pop?); damp litmus at anode (bleaches if chlorine)
+4. Test products: glowing splint at anode (oxygen relight?); lit splint near cathode (hydrogen. Squeaky pop?); damp litmus at anode (bleaches if chlorine)
 5. Weigh electrodes before and after (for copper sulfate experiment)
 
 **Key rules:**
 - **Cathode (−):** positive ions (cations) are attracted; undergo **reduction** (gain electrons)
 - **Anode (+):** negative ions (anions) are attracted; undergo **oxidation** (lose electrons)
-- In mixed solutions: discharge order — at cathode: most reactive won't discharge first (Cu²⁺ before H⁺ from low concentration); at anode: Cl⁻ discharged in preference to OH⁻ if concentrated
+- In mixed solutions: discharge order. At cathode: most reactive won't discharge first (Cu²⁺ before H⁺ from low concentration); at anode: Cl⁻ discharged in preference to OH⁻ if concentrated
 
 **Common exam questions:**
-- "Why must the compound be molten or dissolved in water?" — so the ions are free to move
-- "What is produced at the cathode during electrolysis of copper sulfate solution?" — copper (Cu²⁺ + 2e⁻ → Cu)
-- "Write the half-equation for discharge of chloride ions at the anode" — 2Cl⁻ → Cl2 + 2e⁻
+- "Why must the compound be molten or dissolved in water?": so the ions are free to move
+- "What is produced at the cathode during electrolysis of copper sulfate solution?": copper (Cu²⁺ + 2e⁻ → Cu)
+- "Write the half-equation for discharge of chloride ions at the anode": 2Cl⁻ → Cl2 + 2e⁻
 
 ---
 
-## Practical 4 — Temperature Changes in Reactions
+## Practical 4: Temperature Changes in Reactions
 
 **Topic:** Energy Changes (Paper 1)
 
@@ -91,7 +91,7 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 5. Calculate the temperature change (ΔT)
 6. Repeat with different variables (e.g. different metals, different concentrations)
 
-**Optional — calculate energy change (q):**
+**Optional: calculate energy change (q):**
 - q = mcΔT (mass in grams, c = 4.2 J/g°C for water, ΔT in °C)
 
 **Key variables:**
@@ -100,13 +100,13 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 - Control: volume and concentration of acid, starting temperature, polystyrene cup used each time
 
 **Common exam questions:**
-- "Why is a polystyrene cup used rather than a glass beaker?" — polystyrene is a better insulator; reduces heat loss to surroundings; results are more accurate
-- "The temperature decreased. What type of reaction is this?" — endothermic; the reaction takes in heat energy from the surroundings
-- "Suggest one source of error in this method and how to reduce it" — heat loss through the open top; add a lid / use a better-insulated container
+- "Why is a polystyrene cup used rather than a glass beaker?": polystyrene is a better insulator; reduces heat loss to surroundings; results are more accurate
+- "The temperature decreased. What type of reaction is this?": endothermic; the reaction takes in heat energy from the surroundings
+- "Suggest one source of error in this method and how to reduce it": heat loss through the open top; add a lid / use a better-insulated container
 
 ---
 
-## Practical 5 — Rate of Reaction
+## Practical 5: Rate of Reaction
 
 **Topic:** Rate and Extent of Chemical Change (Paper 2)
 
@@ -132,20 +132,20 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 - Control: all other factors, total mass/volume of reactants
 
 **Common exam questions:**
-- "Explain why increasing the temperature increases the rate of reaction" — particles gain kinetic energy; they collide more frequently and with greater energy; more collisions exceed the activation energy per unit time
-- "Explain why breaking marble chips into smaller pieces increases the rate" — increases surface area; more reactant particles exposed; greater frequency of collisions
-- "Why is 1/time used as a measure of rate?" — rate measures how fast a reaction proceeds; a shorter time = faster reaction = higher rate; 1/time gives a value proportional to rate
+- "Explain why increasing the temperature increases the rate of reaction": particles gain kinetic energy; they collide more frequently and with greater energy; more collisions exceed the activation energy per unit time
+- "Explain why breaking marble chips into smaller pieces increases the rate": increases surface area; more reactant particles exposed; greater frequency of collisions
+- "Why is 1/time used as a measure of rate?": rate measures how fast a reaction proceeds; a shorter time = faster reaction = higher rate; 1/time gives a value proportional to rate
 
 ---
 
-## Practical 6 — Chromatography
+## Practical 6: Chromatography
 
 **Topic:** Chemical Analysis (Paper 2)
 
 **What you do:**
-1. Draw a pencil baseline 1–2 cm from the bottom of the chromatography paper (pencil, NOT pen — ink would run)
+1. Draw a pencil baseline 1 to 2 cm from the bottom of the chromatography paper (pencil, NOT pen: ink would run)
 2. Spot the test substances and a known reference on the baseline using a capillary tube; allow to dry
-3. Place the paper in a beaker with a small amount of solvent (e.g. water or ethanol) — the solvent must NOT touch the spots
+3. Place the paper in a beaker with a small amount of solvent (e.g. water or ethanol): the solvent must NOT touch the spots
 4. Allow the solvent to travel up the paper until it is near the top; remove and mark the solvent front immediately
 5. Measure: distance from baseline to each spot, and distance from baseline to solvent front
 6. Calculate Rf values: Rf = distance moved by substance / distance moved by solvent
@@ -156,13 +156,13 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 - Multiple spots = mixture
 
 **Common exam questions:**
-- "Why must the solvent not touch the spots directly?" — the spots would dissolve directly into the solvent reservoir, ruining the separation
-- "Calculate the Rf value for a substance that moved 4.5 cm when the solvent front moved 6 cm" — Rf = 4.5 / 6 = 0.75
-- "A student says the sample is pure because it produced one spot. Are they correct?" — not necessarily; two different substances could have the same Rf value; run a different solvent to confirm
+- "Why must the solvent not touch the spots directly?": the spots would dissolve directly into the solvent reservoir, ruining the separation
+- "Calculate the Rf value for a substance that moved 4.5 cm when the solvent front moved 6 cm": Rf = 4.5 / 6 = 0.75
+- "A student says the sample is pure because it produced one spot. Are they correct?": not necessarily; two different substances could have the same Rf value; run a different solvent to confirm
 
 ---
 
-## Practical 7 — Identifying Ions
+## Practical 7: Identifying Ions
 
 **Topic:** Chemical Analysis (Paper 2)
 
@@ -200,12 +200,12 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 | Iodide (I⁻) | Add dilute HNO₃ then AgNO₃ | Yellow precipitate of AgI |
 
 **Common exam questions:**
-- "A student added NaOH to an unknown solution. A green precipitate formed. What ion was present?" — Fe²⁺ ions
-- "Why is hydrochloric acid added before the barium chloride test for sulfate?" — to acidify the solution and remove carbonate ions that would also form a white precipitate, giving a false positive
+- "A student added NaOH to an unknown solution. A green precipitate formed. What ion was present?": Fe²⁺ ions
+- "Why is hydrochloric acid added before the barium chloride test for sulfate?": to acidify the solution and remove carbonate ions that would also form a white precipitate, giving a false positive
 
 ---
 
-## Practical 8 — Water Purification
+## Practical 8: Water Purification
 
 **Topic:** Using Resources (Paper 2)
 
@@ -216,12 +216,12 @@ There are **8 required practicals** for AQA GCSE Chemistry (both Separate Chemis
 4. Test the distilled water: pH should be ~7; no dissolved solids; clear
 
 **Purification methods covered:**
-- **Filtration** — removes large insoluble particles (sand, grit)
-- **Sedimentation** — larger particles settle to the bottom; decant the clear layer
-- **Chlorination** — kills microorganisms; small amount of chlorine or chlorine compound added
-- **Distillation** — removes dissolved salts; produces very pure water; high energy cost
+- **Filtration**: removes large insoluble particles (sand, grit)
+- **Sedimentation**: larger particles settle to the bottom; decant the clear layer
+- **Chlorination**: kills microorganisms; small amount of chlorine or chlorine compound added
+- **Distillation**: removes dissolved salts; produces very pure water; high energy cost
 
 **Common exam questions:**
-- "Give one reason why distilled water is not used as drinking water" — too expensive / requires too much energy; removes minerals needed by the body
-- "Chlorination kills microorganisms in water. Give one concern about adding chlorine to drinking water" — chlorine may react with organic compounds to produce harmful by-products; may affect taste/smell
-- "A student evaporated 50 cm³ of water and found 0.25 g of residue. What does this tell you?" — the water contained dissolved solids (not pure)
+- "Give one reason why distilled water is not used as drinking water": too expensive / requires too much energy; removes minerals needed by the body
+- "Chlorination kills microorganisms in water. Give one concern about adding chlorine to drinking water": chlorine may react with organic compounds to produce harmful by-products; may affect taste/smell
+- "A student evaporated 50 cm³ of water and found 0.25 g of residue. What does this tell you?": the water contained dissolved solids (not pure)

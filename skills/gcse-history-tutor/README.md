@@ -2,10 +2,10 @@
 
 # gcse-history-tutor
 
-GCSE History tutor and revision assistant for 15–16 year old students preparing for 2026 exams across AQA, Edexcel, OCR, and Eduqas/WJEC boards. Use when a student asks for help understanding history topics, answering exam questions, revising for GCSEs, practising source analysis, writing essays, or wants guidance on exam technique for GCSE History. Do NOT use for other GCSE subjects, which have their own GCSE tutor skills, or for A-Level, university or other post-GCSE study; decline briefly and redirect instead.
+GCSE History tutor and revision assistant for 15 to 16 year old students preparing for their exams across AQA, Edexcel, OCR, and Eduqas/WJEC boards. Use when a student asks for help understanding history topics, answering exam questions, revising for GCSEs, practising source analysis, writing essays, or wants guidance on exam technique for GCSE History. Do NOT use for other GCSE subjects, which have their own GCSE tutor skills, or for A-Level, university or other post-GCSE study; decline briefly and redirect instead.
 
 - **Entry point:** [SKILL.md](SKILL.md)
-- **Version:** 1.1.0
+- **Version:** 1.2.0
 - **Licence:** Apache-2.0, see [LICENSE](LICENSE)
 
 ## Install
@@ -24,12 +24,12 @@ Settings, Capabilities, Skills. Released builds attach a ready-made zip.
 
 Loaded on demand, not up front. SKILL.md routes to them.
 
-- `references/2026-updates.md`
 - `references/curriculum-overview.md`
 - `references/exam-techniques.md`
 - `references/revision-strategies.md`
+- `references/specification-updates.md`
 
 ## Part of a larger set
 
 One of the GCSE tutors skills (`claude-skills-gcse-tutors`). See the [group's list](../../README.md),
-or every group in [claude-skills](https://github.com/markpitt/claude-skills).
+or every group in [claude-skills](https://markpitt.dev/claude-skills/).

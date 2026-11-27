@@ -1,4 +1,4 @@
-# GCSE English Literature Curriculum Overview (2026)
+# GCSE English Literature Curriculum Overview
 
 ---
 
@@ -11,8 +11,8 @@ Closed-text, linear qualification. **No texts permitted in the exam hall.** Two 
 
 | Section | Text | Task | Marks |
 |---------|------|------|-------|
-| **A — Shakespeare** | One play from the set list | Extract provided on the paper + essay using whole play | 34 |
-| **B — 19th-Century Novel** | One novel from the set list | Extract provided + whole-text essay | 30 |
+| **A: Shakespeare** | One play from the set list | Extract provided on the paper + essay using whole play | 34 |
+| **B: 19th-Century Novel** | One novel from the set list | Extract provided + whole-text essay | 30 |
 
 - Section A: One essay question. Students are given a printed extract and must close-read it AND discuss the play as a whole.
 - Section B: Two-part question. Part (i) is extract-based; part (ii) asks about the wider novel.
@@ -28,9 +28,9 @@ Closed-text, linear qualification. **No texts permitted in the exam hall.** Two 
 
 | Section | Text | Task | Marks |
 |---------|------|------|-------|
-| **A — Modern Prose or Drama** | One modern text | Whole-text essay (no extract provided — closed book) | 34 |
-| **B — Poetry Anthology** | One cluster (15 poems) | One named poem printed + compare to a second poem of choice from same cluster | 30 |
-| **C — Unseen Poetry** | Unseen poem(s) | Analyse an unseen poem, then compare to a second unseen poem | 32 |
+| **A: Modern Prose or Drama** | One modern text | Whole-text essay (no extract provided: closed book) | 34 |
+| **B: Poetry Anthology** | One cluster (15 poems) | One named poem printed + compare to a second poem of choice from same cluster | 30 |
+| **C: Unseen Poetry** | Unseen poem(s) | Analyse an unseen poem, then compare to a second unseen poem | 32 |
 
 **Modern Drama set texts (choose one):** An Inspector Calls, Blood Brothers, The History Boys, DNA, The Curious Incident of the Dog in the Night-Time, A Taste of Honey, Leave Taking, The Princess and the Hustler
 
@@ -41,10 +41,8 @@ Closed-text, linear qualification. **No texts permitted in the exam hall.** Two 
 - *Power and Conflict* (15 poems)
 - *Worlds and Lives* (15 poems)
 
-### 2026 AQA Exam Dates
-- **Paper 1**: Monday 11 May 2026, morning
-- **Paper 2**: Tuesday 19 May 2026, morning
-- Contingency day: Wednesday 24 June 2026
+### Exam dates
+Dates change every year. Check the board's published timetable; the links are in the skill's exam dates section. Literature papers often fall early in the series, in May.
 
 ---
 
@@ -55,13 +53,13 @@ Closed-text, linear qualification. Two written papers, equally weighted.
 ### Paper 1: Shakespeare and Post-1914 Literature
 **Duration:** 1 hour 45 minutes | **Marks:** 80 | **Weighting:** 50%
 
-- **Section A (Shakespeare):** Essay with two parts — close analysis of a printed extract + linking ideas to the whole play.
-- **Section B (Post-1914 text):** Whole-text essay question. No extract — closed book.
+- **Section A (Shakespeare):** Essay with two parts. Close analysis of a printed extract + linking ideas to the whole play.
+- **Section B (Post-1914 text):** Whole-text essay question. No extract: closed book.
 
 **Shakespeare set texts (choose one):** Macbeth, Romeo and Juliet, Much Ado About Nothing, The Merchant of Venice, Twelfth Night, The Tempest
 
 **Post-1914 set texts (choose one):** An Inspector Calls, Hobson's Choice, Blood Brothers, Journey's End, Animal Farm, Lord of the Flies, Anita and Me, The Woman in Black, The Empress, Refugee Boy, Coram Boy, Boys Don't Cry
-- **2026 new additions (first examination):** *Klara and the Sun* (Kazuo Ishiguro), *Western Lane* (Chetna Maroo)
+- **Added from 2026 (first examined that year):** *Klara and the Sun* (Kazuo Ishiguro), *Western Lane* (Chetna Maroo)
 
 ---
 
@@ -89,7 +87,7 @@ Closed-text, linear qualification. Two written papers, equally weighted at 50% e
 - **Section B (19th-Century Prose):** Extract-based or whole-text essay question.
 
 **Modern Prose/Drama set texts (choose one):** Animal Farm, Anita and Me, Never Let Me Go, DNA, My Mother Said I Never Should, Leave Taking
-- Note: *Coriolanus*, *Twelfth Night*, and *Measure for Measure* are being **withdrawn** after June 2026.
+- Boards revise their set-text lists from time to time, so check OCR's current list before relying on a text.
 
 **19th-Century Prose set texts (choose one):** Jane Eyre, Great Expectations, Dr Jekyll and Mr Hyde, A Christmas Carol, Pride and Prejudice
 
@@ -118,7 +116,7 @@ Closed-text, linear qualification. Two written components.
 
 **Shakespeare set texts (choose one):** Romeo and Juliet, Macbeth, Othello, Much Ado About Nothing, Twelfth Night, The Merchant of Venice
 
-**2026 Poetry Note:** Summer 2026 is the **final assessment series** for the current 18-poem WJEC Eduqas Poetry Anthology (includes *The Manhunt*, *Ozymandias*, *Dulce et Decorum Est*). A new 15-poem anthology will replace it from 2027.
+**Poetry anthology:** summer 2026 was the last series for the old 18-poem WJEC Eduqas anthology (which included *The Manhunt*, *Ozymandias* and *Dulce et Decorum Est*). A new anthology is assessed from 2027, so check which poems the student's anthology contains before revising any of them.
 
 ---
 
@@ -144,7 +142,7 @@ Closed-text, linear qualification. Two written components.
 | **AO3** | Show understanding of the relationships between texts and contexts in which they were written |
 | **AO4** | Use a range of vocabulary and sentence structures for clarity, purpose, and effect; error-free spelling and punctuation |
 
-**Note:** AO4 (technical accuracy) applies to written exam responses. Students must write in formal academic English — precise vocabulary, no slang, no contractions.
+**Note:** AO4 (technical accuracy) applies to written exam responses. Students must write in formal academic English: precise vocabulary, no slang, no contractions.
 
 ---
 
