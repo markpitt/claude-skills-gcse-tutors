@@ -1,12 +1,12 @@
-# GCSE Chemistry Curriculum Overview (2026)
+# GCSE Chemistry Curriculum Overview
 
 ## AQA GCSE Chemistry (8462)
 
 Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-answer, and extended open-response questions. A periodic table and data sheet are provided; **no equation sheet** is given.
 
-**Paper 1** (18 May 2026, morning) covers Topics 1–5:
+**Paper 1** covers Topics 1 to 5:
 
-### Topic 1 — Atomic Structure and the Periodic Table
+### Topic 1: Atomic Structure and the Periodic Table
 - Development of atomic models over time (Dalton → Thomson → Rutherford → Bohr → modern)
 - Subatomic particles: protons, neutrons, electrons; mass number and atomic number
 - Isotopes and relative atomic mass (Ar)
@@ -16,17 +16,17 @@ Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-
 - Group 7 (halogens): reactivity trend, displacement reactions, properties
 - Group 0 (noble gases): why they are unreactive; uses
 
-### Topic 2 — Bonding, Structure, and the Properties of Matter
+### Topic 2: Bonding, Structure, and the Properties of Matter
 - Ionic bonding: metal + non-metal; loss and gain of electrons; forming ionic lattices
 - Covalent bonding: non-metal + non-metal; sharing electrons; simple molecular vs giant covalent
 - Metallic bonding: positive ions surrounded by a sea of delocalised electrons
 - Properties of ionic compounds: high melting point, conduct electricity when molten/dissolved, brittle
 - Properties of simple molecular compounds: low melting point, do not conduct electricity
-- Giant covalent structures: diamond (hardest, doesn't conduct), graphite (conducts — delocalised electrons), graphene, fullerenes (C60 buckminsterfullerene)
+- Giant covalent structures: diamond (hardest, doesn't conduct), graphite (conducts. Delocalised electrons), graphene, fullerenes (C60 buckminsterfullerene)
 - Metallic properties: malleable, good conductors, high melting point
 - Nanoparticles and nanoscience: properties at nanoscale, uses (medicine, sunscreen, catalysts), concerns
 
-### Topic 3 — Quantitative Chemistry
+### Topic 3: Quantitative Chemistry
 - Conservation of mass: balanced equations; why mass appears to change (gas escaping / entering)
 - Relative formula mass (Mr): sum of relative atomic masses in formula
 - Moles: the unit for amount of substance; moles = mass / Mr
@@ -37,7 +37,7 @@ Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-
 - Atom economy: atom economy = (Mr of desired product / Mr sum of all products) × 100 (Higher Tier)
 - Volumes of gases: 1 mole of any gas = 24 dm³ at room temperature (Higher Tier)
 
-### Topic 4 — Chemical Changes
+### Topic 4: Chemical Changes
 - Reactivity series: K > Na > Ca > Mg > Al > (C) > Zn > Fe > (H) > Cu > Ag > Au
 - Displacement reactions: a more reactive metal displaces a less reactive one from solution
 - Extraction of metals: reduction with carbon (iron, zinc), electrolysis (aluminium, sodium)
@@ -48,7 +48,7 @@ Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-
 - Electrolysis of brine: chlorine at anode, hydrogen at cathode, sodium hydroxide in solution
 - Electrolysis of copper sulfate solution (with copper electrodes): copper deposited at cathode, copper lost from anode (electroplating)
 
-### Topic 5 — Energy Changes
+### Topic 5: Energy Changes
 - Exothermic reactions: release energy to surroundings; temperature increases; examples include combustion, oxidation, neutralisation
 - Endothermic reactions: take in energy from surroundings; temperature decreases; examples include thermal decomposition, citric acid + sodium hydrogen carbonate
 - Reaction profiles (energy diagrams): reactants, products, activation energy, enthalpy change (ΔH)
@@ -58,9 +58,9 @@ Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-
 
 ---
 
-**Paper 2** (12 June 2026, morning) covers Topics 6–10:
+**Paper 2** covers Topics 6 to 10:
 
-### Topic 6 — Rate and Extent of Chemical Change
+### Topic 6: Rate and Extent of Chemical Change
 - Collision theory: reactions happen when particles collide with sufficient energy (activation energy)
 - Factors affecting rate: temperature, concentration, pressure (gases), surface area, catalysts
 - Measuring rate: volume of gas produced per unit time; change in mass; change in colour/turbidity
@@ -70,7 +70,7 @@ Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-
 - Le Chatelier's Principle: if conditions change, equilibrium shifts to oppose the change (Higher Tier)
 - The Haber process: N2 + 3H2 ⇌ 2NH3; conditions: 450°C, 200 atm, iron catalyst; compromise between yield and rate
 
-### Topic 7 — Organic Chemistry
+### Topic 7: Organic Chemistry
 - Crude oil: fossil fuel; mixture of hydrocarbons; separated by fractional distillation
 - Alkanes (CnH2n+2): saturated hydrocarbons; methane, ethane, propane, butane; combustion reactions
 - Cracking: breaking long-chain alkanes into shorter, more useful molecules; produces alkenes
@@ -82,7 +82,7 @@ Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-
 - Addition polymerisation: alkene monomers join; e.g. poly(ethene) from ethene; no by-product
 - Naturally occurring polymers: DNA, proteins (condensation polymers), starch and cellulose
 
-### Topic 8 — Chemical Analysis
+### Topic 8: Chemical Analysis
 - Purity: a pure substance has a sharp, fixed melting point; impurities lower melting point and widen range
 - Formulations: mixtures with a specific composition for a purpose (medicines, fuels, paints, alloys)
 - Paper chromatography: separating mixtures; Rf = distance moved by substance / distance moved by solvent
@@ -97,7 +97,7 @@ Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-
 - Precipitation tests (metal ions): add NaOH solution; observe colour of precipitate (Cu²⁺ = blue, Fe²⁺ = green, Fe³⁺ = brown/rust)
 - Tests for negative ions: carbonate (CO₃²⁻) + dilute acid → CO₂; sulfate (SO₄²⁻) + Ba²⁺ → white precipitate; halides + Ag⁺ (white = Cl⁻, cream = Br⁻, yellow = I⁻)
 
-### Topic 9 — Chemistry of the Atmosphere
+### Topic 9: Chemistry of the Atmosphere
 - Early atmosphere: mainly CO2 and water vapour from volcanoes; little or no oxygen
 - Evolution of the atmosphere: plants produced oxygen via photosynthesis; CO2 dissolved into oceans; N2 built up
 - Current atmosphere: approximately 78% N2, 21% O2, ~1% Ar, ~0.04% CO2
@@ -106,7 +106,7 @@ Assessed across two 1h 45min papers. Both papers contain multiple-choice, short-
 - Carbon footprint: total CO2 (and equivalent) emissions from an activity or person; ways to reduce
 - Atmospheric pollutants from combustion: CO2 (global warming), CO (toxic, from incomplete combustion), SO2 (acid rain); nitrogen oxides NOx (acid rain, smog); particulates (respiratory problems)
 
-### Topic 10 — Using Resources
+### Topic 10: Using Resources
 - Finite (non-renewable) vs renewable resources; sustainable development principles
 - Potable water: water safe to drink; not the same as pure water; treatment involves sedimentation, filtration, chlorination
 - Waste water treatment: screening, sedimentation, biological treatment, UV disinfection
@@ -126,10 +126,10 @@ Assessed in two 1h 45min papers with a formulae sheet provided.
 
 **Five topics (Paper 1 and Paper 2):**
 
-1. **Key Concepts in Chemistry** — atomic structure, bonding, formulae, equations, moles, hazards
-2. **States of Matter and Mixtures** — pure substances, separation techniques, formulations, chromatography, filtration, crystallisation, distillation
-3. **Chemical Changes** — reactivity series, displacement, acids and alkalis, neutralisation, electrolysis
-4. **Extracting Metals and Equilibria** — metal extraction, equilibrium and Le Chatelier's Principle
+1. **Key Concepts in Chemistry**: atomic structure, bonding, formulae, equations, moles, hazards
+2. **States of Matter and Mixtures**: pure substances, separation techniques, formulations, chromatography, filtration, crystallisation, distillation
+3. **Chemical Changes**: reactivity series, displacement, acids and alkalis, neutralisation, electrolysis
+4. **Extracting Metals and Equilibria**: metal extraction, equilibrium and Le Chatelier's Principle
 5. **Separate topics (Paper 2 additions):** rates of reaction, energy changes, fuels (crude oil, cracking, alkanes), polymers, Earth's atmosphere, finite resources
 
 ---
@@ -138,12 +138,12 @@ Assessed in two 1h 45min papers with a formulae sheet provided.
 
 Six chemistry modules:
 
-- **C1: Particles** — atomic structure, bonding, states of matter
-- **C2: Elements, compounds and mixtures** — separation techniques, chromatography, formulae, equations
-- **C3: Chemical reactions** — acids, salts, metals, reactivity, electrolysis
-- **C4: Predicting and identifying reactions and products** — rates, bond energies, analysis, identifying ions
-- **C5: Monitoring and controlling chemical reactions** — equilibrium, industrial processes, titration
-- **C6: Global challenges** — organic chemistry, atmosphere, resources, life cycle assessment
+- **C1: Particles**. Atomic structure, bonding, states of matter
+- **C2: Elements, compounds and mixtures**. Separation techniques, chromatography, formulae, equations
+- **C3: Chemical reactions**. Acids, salts, metals, reactivity, electrolysis
+- **C4: Predicting and identifying reactions and products**. Rates, bond energies, analysis, identifying ions
+- **C5: Monitoring and controlling chemical reactions**. Equilibrium, industrial processes, titration
+- **C6: Global challenges**. Organic chemistry, atmosphere, resources, life cycle assessment
 
 ---
 

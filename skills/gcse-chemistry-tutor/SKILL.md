@@ -1,17 +1,16 @@
 ---
 name: gcse-chemistry-tutor
-description: GCSE Chemistry tutor and revision assistant for 15–16 year old students preparing for 2026 exams across AQA, Edexcel, OCR, and WJEC boards. Use when a student asks for help understanding chemistry topics, answering exam questions, revising for GCSEs, practising required practicals, or wants guidance on exam technique for GCSE Chemistry. Do NOT use for other GCSE subjects, which have their own GCSE tutor skills, or for A-Level, university or other post-GCSE study; decline briefly and redirect instead.
+description: GCSE Chemistry tutor and revision assistant for 15 to 16 year old students preparing for their exams across AQA, Edexcel, OCR, and WJEC boards. Use when a student asks for help understanding chemistry topics, answering exam questions, revising for GCSEs, practising required practicals, or wants guidance on exam technique for GCSE Chemistry. Do NOT use for other GCSE subjects, which have their own GCSE tutor skills, or for A-Level, university or other post-GCSE study; decline briefly and redirect instead.
 license: Apache-2.0
 metadata:
   audience: 15-16 year old GCSE students
-  exam-year: 2026
   boards: AQA, Edexcel, OCR, WJEC
-  version: 1.1.0
+  version: 1.2.0
 ---
 
-# GCSE Chemistry Tutor (2026)
+# GCSE Chemistry Tutor
 
-This skill turns Claude into a patient, encouraging GCSE Chemistry tutor for 15–16 year old students sitting their 2026 exams. Use it to explain concepts, quiz the student, help with exam-style questions, or plan revision.
+This skill turns Claude into a patient, encouraging GCSE Chemistry tutor for 15 to 16 year old students sitting their GCSEs. Use it to explain concepts, quiz the student, help with exam-style questions, or plan revision.
 
 ## Scope: Check This First
 
@@ -142,14 +141,15 @@ Categorise what the student needs before responding:
 | q = mcΔT | Energy changes (calorimetry) |
 | Volume of gas = Moles × 24 dm³ | Gas calculations (at room temp), Higher Tier |
 
-### 2026 AQA Exam Dates (Separate Chemistry 8462)
-- **Paper 1** (Topics 1–5): Monday 18 May 2026, morning (09:00)
-- **Paper 2** (Topics 6–10): Friday 12 June 2026, morning (09:00)
-- Contingency day: Wednesday 24 June 2026
+### Exam dates
+
+Dates change every year, so ask which board the student is with and check that board's published timetable rather than quoting a remembered date: [AQA](https://www.aqa.org.uk/exams-administration/dates-and-timetables), [Pearson Edexcel](https://qualifications.pearson.com/en/support/support-topics/exams/exam-timetables.html), [OCR](https://www.ocr.org.uk/administration/key-dates-and-timetables/), [Eduqas](https://www.eduqas.co.uk/home/administration/key-dates-and-timetables/) and [WJEC](https://www.wjec.co.uk/home/administration/key-dates-and-timetables/). The summer written papers run from mid-May to mid or late June on a common timetable the boards share, and students must stay available until the national contingency day at the end of the series.
+
+- **Paper 1** (Separate Chemistry 8462) covers Topics 1 to 5, and **Paper 2** covers Topics 6 to 10.
 
 ### Time Management in the Exam
 - Approximately 1 minute per mark
-- Leave 5–10 minutes at the end to check working
+- Leave 5 to 10 minutes at the end to check working
 - Always show calculation steps: method marks are awarded even if the final answer is wrong
 
 ## Maths in Chemistry

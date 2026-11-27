@@ -10,11 +10,11 @@ Describes the hue, value, and saturation of pigment or light.
 **Vocabulary:** bright, dull, bold, subtle, vivid, vibrant, saturated, muted, warm, cool, rich, pale, harmonious, complementary, monochromatic, analogous, clashing, contrasting
 
 **Key concepts:**
-- **Warm colours** (red, orange, yellow) — advance, create energy, warmth, urgency
-- **Cool colours** (blue, purple, green) — recede, suggest calm, distance, melancholy
-- **Complementary colours** (opposite on the wheel: red/green, blue/orange) — create vibration and contrast when placed together
-- **Monochromatic** — single hue in varying tones; creates unity, elegance, or bleakness
-- **Colour temperature** — even within a single hue, a blue-biased green "cools" while a yellow-biased green "warms"
+- **Warm colours** (red, orange, yellow): advance, create energy, warmth, urgency
+- **Cool colours** (blue, purple, green): recede, suggest calm, distance, melancholy
+- **Complementary colours** (opposite on the wheel: red/green, blue/orange). Create vibration and contrast when placed together
+- **Monochromatic**: single hue in varying tones; creates unity, elegance, or bleakness
+- **Colour temperature**: even within a single hue, a blue-biased green "cools" while a yellow-biased green "warms"
 
 ### Tone
 The range from lightest light (highlight) to deepest dark (shadow).
@@ -22,10 +22,10 @@ The range from lightest light (highlight) to deepest dark (shadow).
 **Vocabulary:** dense, dark, mid-tone, graduated, blended, hatched, crosshatched, smudged, smooth, high-key, low-key, chiaroscuro, contrast
 
 **Key concepts:**
-- **Tonal range** — having a full range from very light to very deep creates depth and drama
-- **High-key** — predominantly light tones; feels airy, optimistic, delicate
-- **Low-key** — predominantly dark tones; feels moody, dramatic, threatening
-- **Chiaroscuro** — dramatic contrast between light and shadow (Caravaggio, Rembrandt); can be applied in any medium
+- **Tonal range**: having a full range from very light to very deep creates depth and drama
+- **High-key**: predominantly light tones; feels airy, optimistic, delicate
+- **Low-key**: predominantly dark tones; feels moody, dramatic, threatening
+- **Chiaroscuro**: dramatic contrast between light and shadow (Caravaggio, Rembrandt); can be applied in any medium
 
 ### Line
 The path traced by a moving point; the most fundamental drawing element.
@@ -33,21 +33,21 @@ The path traced by a moving point; the most fundamental drawing element.
 **Vocabulary:** straight, curvy, undulating, vertical, horizontal, diagonal, meandering, zigzag, delicate, confident, sensitive, aggressive, tentative, bold, hatched, gestural, contour, implied
 
 **Key concepts:**
-- **Directional lines** — lead the viewer's eye through the composition
-- **Gestural lines** — fast, expressive marks that suggest movement and energy
-- **Contour lines** — follow the edge or surface of a form; describe shape
-- **Hatching/crosshatching** — layered parallel marks used to build tone in drawing and printmaking
-- **Implied line** — the eye follows a suggested path even without an explicit mark
+- **Directional lines**: lead the viewer's eye through the composition
+- **Gestural lines**: fast, expressive marks that suggest movement and energy
+- **Contour lines**: follow the edge or surface of a form; describe shape
+- **Hatching/crosshatching**: layered parallel marks used to build tone in drawing and printmaking
+- **Implied line**: the eye follows a suggested path even without an explicit mark
 
 ### Texture
-The surface quality — how something feels or appears to feel.
+The surface quality: how something feels or appears to feel.
 
 **Vocabulary:** fine, smooth, rough, coarse, furry, bumpy, rippled, crinkly, jagged, scaly, silky, ragged, grainy, woven, abrasive, velvety, tactile, impasto
 
 **Key concepts:**
-- **Impasto** — thick, textured application of paint; physical surface quality (Van Gogh, Frank Auerbach)
-- **Visual texture** — texture suggested by marks, not physically present
-- **Tactile texture** — actual physical texture in mixed media, collage, or sculpture
+- **Impasto**: thick, textured application of paint; physical surface quality (Van Gogh, Frank Auerbach)
+- **Visual texture**: texture suggested by marks, not physically present
+- **Tactile texture**: actual physical texture in mixed media, collage, or sculpture
 
 ### Shape and Form
 Shape is 2D; form is 3D.
@@ -56,9 +56,9 @@ Shape is 2D; form is 3D.
 **Vocabulary (form):** solid, three-dimensional, concave, convex, distorted, voluminous, planar, sculptural
 
 **Key concepts:**
-- **Positive space** — the object itself; **negative space** — the space around it (equally important in composition)
-- **Organic shapes** — irregular, nature-inspired; feel softer and more dynamic
-- **Geometric shapes** — precise, mathematical; feel structured, ordered, or rigid
+- **Positive space**: the object itself; **negative space**: the space around it (equally important in composition)
+- **Organic shapes**: irregular, nature-inspired; feel softer and more dynamic
+- **Geometric shapes**: precise, mathematical; feel structured, ordered, or rigid
 
 ### Composition
 How elements are arranged within the picture plane.
@@ -66,11 +66,11 @@ How elements are arranged within the picture plane.
 **Vocabulary:** focal point, rule of thirds, symmetry, asymmetry, balance, depth, overlapping, layered, cluttered, minimal, dynamic, static, framing, cropping, perspective, foreground, mid-ground, background
 
 **Key techniques:**
-- **Rule of thirds** — place key elements at the intersections of a 3x3 grid for dynamic balance
-- **Leading lines** — use linear elements to draw the eye toward the focal point
-- **Symmetry vs asymmetry** — symmetry creates calm and formality; asymmetry creates tension and movement
-- **Negative space** — the empty areas can be as expressive as filled areas
-- **Cropping** — cutting into forms at edges creates dynamism and implies a world beyond the frame
+- **Rule of thirds**: place key elements at the intersections of a 3x3 grid for dynamic balance
+- **Leading lines**: use linear elements to draw the eye towards the focal point
+- **Symmetry vs asymmetry**: symmetry creates calm and formality; asymmetry creates tension and movement
+- **Negative space**: the empty areas can be as expressive as filled areas
+- **Cropping**: cutting into forms at edges creates dynamism and implies a world beyond the frame
 
 ### Space
 The illusion of depth or the actual three-dimensional area in sculpture and installation.
@@ -78,9 +78,9 @@ The illusion of depth or the actual three-dimensional area in sculpture and inst
 **Vocabulary:** foreground, mid-ground, background, vanishing point, horizon line, perspective, foreshortening, positive/negative space, atmospheric perspective, distance, depth
 
 **Key concepts:**
-- **Linear perspective** — parallel lines converge at vanishing points to suggest depth
-- **Atmospheric perspective** — distant elements are lighter, cooler, and less detailed
-- **Foreshortening** — limbs or objects angled toward the viewer appear compressed
+- **Linear perspective**: parallel lines converge at vanishing points to suggest depth
+- **Atmospheric perspective**: distant elements are lighter, cooler, and less detailed
+- **Foreshortening**: limbs or objects angled towards the viewer appear compressed
 
 ---
 
@@ -116,7 +116,7 @@ The illusion of depth or the actual three-dimensional area in sculpture and inst
 - Technique tips: work light to dark (reserves whites, can't recover them); wet-on-wet for soft edges; wet-on-dry for crisp edges; salt and masking fluid for texture effects; allow layers to dry between washes
 
 **Acrylic**
-- Best for: versatile — can be thinned to watercolour-like washes or applied thickly (impasto); dries fast; adheres to most surfaces
+- Best for: versatile. Can be thinned to watercolour-like washes or applied thickly (impasto); dries fast; adheres to most surfaces
 - Technique tips: retarder medium slows drying time; build glazes (thin layers) for depth; use texture paste or sand for impasto effects; excellent for mixed media as it adheres over most materials
 
 **Gouache**
@@ -148,7 +148,7 @@ The illusion of depth or the actual three-dimensional area in sculpture and inst
 ### Mixed Media and Collage
 - Combining two or more media or materials on the same work
 - Can include: wet and dry media combined; found objects; printed photographs; fabric; acetate; tissue paper
-- Tips: acrylic matte medium serves as both collage adhesive and seal; layer with intention — consider what each material adds to the meaning; annotate why each material was chosen
+- Tips: acrylic matte medium serves as both collage adhesive and seal; layer with intention. Consider what each material adds to the meaning; annotate why each material was chosen
 
 ### Sculpture and 3D
 - **Clay/ceramic modelling:** coil, slab, pinch-pot; surface texture built with tools

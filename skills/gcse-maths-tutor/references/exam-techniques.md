@@ -1,4 +1,4 @@
-# GCSE Maths Exam Techniques (2026)
+# GCSE Maths Exam Techniques
 
 ## GCSE Maths Assessment Objectives
 
@@ -10,7 +10,7 @@ Every GCSE Maths paper assesses three Assessment Objectives:
 | **AO2** | Reason, interpret and communicate | Construct arguments, make deductions, interpret problems | ~30% |
 | **AO3** | Solve problems | Multi-step problems in unfamiliar or real-life contexts | ~30% |
 
-AO1 questions are the most straightforward — they test whether you know a method. AO3 questions require you to chain methods together, and these are where grades 7–9 are won or lost.
+AO1 questions are the most straightforward: they test whether you know a method. AO3 questions require you to chain methods together, and these are where grades 7 to 9 are won or lost.
 
 ---
 
@@ -19,17 +19,17 @@ AO1 questions are the most straightforward — they test whether you know a meth
 ### Calculate / Work out / Find
 - **What it means:** Obtain a numerical answer using the given information
 - **How to answer:** Show all working; state the final answer clearly with units
-- **Common trap:** Missing out working steps — if you make an error, working earns method marks
+- **Common trap:** Missing out working steps. If you make an error, working earns method marks
 
 ### Show that / Verify
 - **What it means:** Provide a rigorous, step-by-step proof that leads to the stated result
 - **How to answer:** Start from given information; work systematically towards the stated answer; do NOT use the stated answer in your working
-- **Common trap:** Starting from the answer and working backwards — this is invalid and earns no marks
+- **Common trap:** Starting from the answer and working backwards. This is invalid and earns no marks
 
 ### Prove
 - **What it means:** Construct a logical, algebraic or geometric argument that a statement is always true
 - **How to answer:** Work from first principles; show every step; state "Therefore..." at the end
-- **Common trap:** Only showing one or two examples — this is NOT a proof
+- **Common trap:** Only showing one or two examples. This is NOT a proof
 
 ### Explain / Give a reason why
 - **What it means:** Justify your answer or reasoning in words, with reference to mathematical facts
@@ -52,7 +52,7 @@ AO1 questions are the most straightforward — they test whether you know a meth
 - **Common trap:** Only giving one root of a quadratic
 
 ### Sketch
-- **What it means:** Draw a rough graph showing key features — not plotting exact points
+- **What it means:** Draw a rough graph showing key features. Not plotting exact points
 - **How to answer:** Label intercepts, turning points, and asymptotes; show the correct general shape
 - **Common trap:** Drawing a precise plot when a sketch is asked for (wastes time)
 
@@ -81,22 +81,22 @@ AO1 questions are the most straightforward — they test whether you know a meth
 
 Use for any calculation or multi-step question:
 
-1. **S — State:** Write what you know and what you are trying to find. Include units.
-2. **T — Think:** Identify the method, formula, or rule needed.
-3. **A — Apply:** Carry out the working step by step. Show every line.
-4. **R — Review:** Check the answer makes sense. Estimate to verify; substitute back if possible.
+1. **S: State:** Write what you know and what you are trying to find. Include units.
+2. **T: Think:** Identify the method, formula, or rule needed.
+3. **A: Apply:** Carry out the working step by step. Show every line.
+4. **R: Review:** Check the answer makes sense. Estimate to verify; substitute back if possible.
 
 ---
 
-## Algebraic Proof — The Rules
+## Algebraic Proof: The Rules
 
 For any "prove" or "show that" algebraic question:
 
-1. **Always work from one side** — transform the left-hand side into the right-hand side (or vice versa)
-2. **Never assume what you are proving** — do not use the result you need to show
-3. **Be explicit** — write "= ... because ..." or show each manipulation on a new line
-4. **Conclude clearly** — write "Therefore [statement] has been proved" or "QED"
-5. **For "prove for any integer"** — use general expressions: consecutive integers are n and n+1; consecutive even integers are 2n and 2n+2; consecutive odd integers are 2n+1 and 2n+3
+1. **Always work from one side**: transform the left-hand side into the right-hand side (or vice versa)
+2. **Never assume what you are proving**: do not use the result you need to show
+3. **Be explicit**: write "= ... because ..." or show each manipulation on a new line
+4. **Conclude clearly**: write "Therefore [statement] has been proved" or "QED"
+5. **For "prove for any integer"**: use general expressions: consecutive integers are n and n+1; consecutive even integers are 2n and 2n+2; consecutive odd integers are 2n+1 and 2n+3
 
 ---
 
@@ -116,7 +116,7 @@ When asked to fully describe a transformation, use this checklist:
 ## Working with Circle Theorems
 
 When answering circle theorem questions, always:
-1. **Name the theorem** you are using — examiners require the reason, not just the answer
+1. **Name the theorem** you are using: examiners require the reason, not just the answer
 2. Write the reason in a standard form: "Angle at centre is twice the angle at circumference" (not "because of circle theory")
 3. If multiple theorems are needed, number your steps
 
@@ -169,14 +169,14 @@ Paper 1 (AQA and Edexcel) and Paper 2 (OCR) are non-calculator. Key strategies:
 | Topic | Common error | How to avoid |
 |-------|-------------|-------------|
 | **Fractions** | Adding numerators AND denominators | Always find a common denominator before adding/subtracting |
-| **Percentages** | Finding 20% of old price to reverse a 20% increase | A 20% increase means the new price is 120% — divide by 1.2, not subtract 20% |
+| **Percentages** | Finding 20% of old price to reverse a 20% increase | A 20% increase means the new price is 120%: divide by 1.2, not subtract 20% |
 | **Solving equations** | Not performing the same operation to both sides | Write each step on a new line; check by substituting back |
 | **Area of circle** | Using diameter instead of radius in A = pi r^2 | Halve the diameter if given; label clearly |
 | **Trigonometry** | Using the wrong ratio | Draw the right-angled triangle; label O, A, H relative to the angle; then select ratio |
 | **Pythagoras** | Adding instead of subtracting when finding a shorter side | Use c^2 = a^2 + b^2; rearrange as a^2 = c^2 - b^2 for a short side |
 | **Vectors** | Incorrect direction (sign error) | Draw an arrow diagram; reversing a vector negates it |
 | **Simultaneous equations** | Arithmetic error when eliminating | Align terms clearly; check by substituting solution back into both equations |
-| **Quadratic formula** | Not including ± or incorrect denominator | The entire numerator is divided by 2a — use brackets |
+| **Quadratic formula** | Not including ± or incorrect denominator | The entire numerator is divided by 2a: use brackets |
 | **Histogram** | Using frequency instead of frequency density | Always: f.d. = frequency / class width; the y-axis is frequency density |
 | **Bounds** | Using wrong bound for addition vs division | Maximum product: UB x UB; minimum quotient: LB / UB |
 
@@ -195,9 +195,9 @@ Paper 1 (AQA and Edexcel) and Paper 2 (OCR) are non-calculator. Key strategies:
 **Rule of thumb:** spend approximately 1 minute per mark.
 
 ### Strategies
-- Skim through the paper at the start to identify easy marks — tackle these first
+- Skim through the paper at the start to identify easy marks: tackle these first
 - Mark questions you want to return to with a small circle; go back at the end
-- Never leave a question bank — even a wrong attempt may earn a method mark
+- Never leave a question bank: even a wrong attempt may earn a method mark
 - Re-read multi-mark questions carefully at the end to check nothing is missing
 - Leave 5 minutes at the end to check working and re-read your answers
 
@@ -208,8 +208,8 @@ Paper 1 (AQA and Edexcel) and Paper 2 (OCR) are non-calculator. Key strategies:
 - **AQA past papers and mark schemes:** aqa.org.uk/8300
 - **Edexcel past papers and mark schemes:** qualifications.pearson.com (search 1MA1)
 - **OCR past papers and mark schemes:** ocr.org.uk (search J560)
-- **PMT Education:** physicsandmathstutor.com — topic-by-topic questions and solutions
-- **Maths Genie:** mathsgenie.co.uk — past paper questions by topic and grade
-- **Third Space Learning:** thirdspacelearning.com — GCSE Maths worksheets and problem solving
-- **Corbettmaths:** corbettmaths.com — practice questions, videos, and 5-a-day exercises
-- **Save My Exams:** savemyexams.com — topic questions with model answers
+- **PMT Education:** physicsandmathstutor.com. Topic-by-topic questions and solutions
+- **Maths Genie:** mathsgenie.co.uk. Past paper questions by topic and grade
+- **Third Space Learning:** thirdspacelearning.com. GCSE Maths worksheets and problem solving
+- **Corbettmaths:** corbettmaths.com. Practice questions, videos, and 5-a-day exercises
+- **Save My Exams:** savemyexams.com. Topic questions with model answers

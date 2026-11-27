@@ -1,4 +1,4 @@
-# Revision Strategies for GCSE Biology (2026)
+# Revision Strategies for GCSE Biology
 
 ## Why Passive Revision Doesn't Work
 
@@ -15,7 +15,7 @@ Instead of reading, close your notes and write down or say out loud everything y
 **How to use it:**
 - Open a blank page or whiteboard
 - Write the topic title at the top (e.g. "Osmosis" or "The Nervous System")
-- Brain-dump everything you know — diagrams, definitions, equations, examples
+- Brain-dump everything you know: diagrams, definitions, equations, examples
 - Open your notes and mark what you missed in red
 - Focus your next session only on the red items
 
@@ -25,7 +25,7 @@ Instead of reading, close your notes and write down or say out loud everything y
 
 ### 2. Spaced Repetition with the 2357 Schedule
 
-Don't revise a topic once and move on — revisit it at increasing intervals to beat the "Forgetting Curve".
+Don't revise a topic once and move on: revisit it at increasing intervals to beat the "Forgetting Curve".
 
 **The 2357 schedule:**
 - Study the topic on **Day 0**
@@ -54,11 +54,11 @@ Explain a concept as if you're teaching it to a 10-year-old. Where you struggle 
 
 ### 4. Interleaving (Mix Up Your Subjects)
 
-Studying by topic block (hour on cell biology, hour on ecology) feels easier but is less effective. Mixing topics in one session forces your brain to actively discriminate between concepts — exactly what the exam demands.
+Studying by topic block (hour on cell biology, hour on ecology) feels easier but is less effective. Mixing topics in one session forces your brain to actively discriminate between concepts: exactly what the exam demands.
 
 **How to use it:**
 - In a 2-hour session, rotate between three topics (e.g. genetics, enzymes, ecosystems)
-- This feels harder at first — that's a sign it's working
+- This feels harder at first: that's a sign it's working
 - Great for practising past paper questions which often mix topics
 
 ---
@@ -68,14 +68,14 @@ Studying by topic block (hour on cell biology, hour on ecology) feels easier but
 Past papers are the single most reliable way to know if you're ready. Do them under timed conditions.
 
 **Where to find them:**
-- AQA: aqa.org.uk — free mark schemes included
-- PMT Education (physicsandmathstutor.com) — organised by topic
-- Save My Exams (savemyexams.com) — topic-by-topic practice questions
+- AQA: aqa.org.uk. Free mark schemes included
+- PMT Education (physicsandmathstutor.com): organised by topic
+- Save My Exams (savemyexams.com): topic-by-topic practice questions
 
 **How to use them:**
 1. Attempt under timed exam conditions (no notes)
 2. Mark using the official mark scheme
-3. For each wrong answer, identify *why* — wrong command word reading, missing knowledge, or calculation error
+3. For each wrong answer, identify *why*: wrong command word reading, missing knowledge, or calculation error
 4. Add missed knowledge to a "weakness list"
 5. Revisit weakness list using active recall before your next session
 
@@ -85,8 +85,8 @@ Past papers are the single most reliable way to know if you're ready. Do them un
 
 **The method:**
 - Set a timer for **25 minutes** of focused work (phone away, door closed)
-- After 25 minutes, take a **5-minute break** (walk, drink water — not social media)
-- After four Pomodoros, take a 15–20 minute break
+- After 25 minutes, take a **5-minute break** (walk, drink water: not social media)
+- After four Pomodoros, take a 15 to 20 minute break
 
 **Why it works:** Short bursts prevent mental fatigue and make daunting revision feel manageable.
 
@@ -94,29 +94,28 @@ Past papers are the single most reliable way to know if you're ready. Do them un
 
 ## Building a Revision Timetable
 
-### Step 1 — Find Out Your Exam Dates
-- AQA Biology Paper 1: 12 May 2026 (afternoon)
-- AQA Biology Paper 2: 8 June 2026 (morning)
-- Check your personal timetable — you'll have other subjects too
+### Step 1: Find Out Your Exam Dates
+- Look up each paper's date on your board's published timetable (the links are in the skill's exam dates section), and put them at the top of the plan
+- Check your personal timetable: you'll have other subjects too
 
-### Step 2 — Identify Your Weakest Topics
+### Step 2: Identify Your Weakest Topics
 - Go through the full curriculum checklist (see `references/curriculum-overview.md`)
 - Mark each topic: red (don't know it), amber (know it a bit), green (secure)
 - Spend more time on red topics, less on green
 
-### Step 3 — Allocate Time per Week
+### Step 3: Allocate Time per Week
 A rough guide for a student who has 3 months to go:
 
 | Weeks to exam | Daily revision recommended |
 |---------------|--------------------------|
-| 12+ weeks | 30–45 minutes per subject |
-| 8–11 weeks | 45–60 minutes per subject |
-| 4–7 weeks | 60–90 minutes per subject |
-| 1–3 weeks | 90+ minutes per subject, heavy past papers |
+| 12+ weeks | 30 to 45 minutes per subject |
+| 8 to 11 weeks | 45 to 60 minutes per subject |
+| 4 to 7 weeks | 60 to 90 minutes per subject |
+| 1 to 3 weeks | 90+ minutes per subject, heavy past papers |
 
-### Step 4 — Structure Each Session
+### Step 4: Structure Each Session
 - 5 min: active recall of previous session's material (no notes)
-- 30–40 min: new material (using active recall, not just reading)
+- 30 to 40 min: new material (using active recall, not just reading)
 - 10 min: past paper questions on today's topic
 - 5 min: update your "weakness list"
 
@@ -148,13 +147,13 @@ Many 1-2 mark questions simply ask for a definition. Learn these precisely:
 - **Homeostasis:** the maintenance of a stable internal environment
 
 ### Using Flashcards Effectively
-- One fact per card — do not put paragraphs on cards
+- One fact per card: do not put paragraphs on cards
 - Include diagrams on one side, labelled version on the other
 - Separate cards into "know it" and "still learning" piles
 - Use Anki (free, available on phone) for automated spaced repetition
 
 ### Equations to Memorise
-(Biology does NOT provide these — unlike Physics and Maths)
+(Biology does NOT provide these: unlike Physics and Maths)
 
 | Equation | Use |
 |----------|-----|
@@ -167,9 +166,9 @@ Many 1-2 mark questions simply ask for a definition. Learn these precisely:
 
 ## Recommended Free Resources
 
-- **BBC Bitesize GCSE Biology** — concise topic summaries and quizzes
-- **Save My Exams** — topic-by-topic exam questions with mark schemes
-- **PMT Education** — past papers and revision notes by exam board
-- **KayScience (YouTube)** — clear video explanations of AQA Biology topics
-- **Freesciencelessons (YouTube)** — full GCSE Biology course for AQA
-- **GCSEPod** — short audio/video bites ideal for the 2357 revision method
+- **BBC Bitesize GCSE Biology**: concise topic summaries and quizzes
+- **Save My Exams**: topic-by-topic exam questions with mark schemes
+- **PMT Education**: past papers and revision notes by exam board
+- **KayScience (YouTube)**: clear video explanations of AQA Biology topics
+- **Freesciencelessons (YouTube)**: full GCSE Biology course for AQA
+- **GCSEPod**: short audio/video bites ideal for the 2357 revision method

@@ -1,6 +1,6 @@
-# GCSE Physics Required Practicals (2026)
+# GCSE Physics Required Practicals
 
-Required practical questions are worth at least 15% of marks in written exams. Students do not sit a separate practical exam (except WJEC) — instead, their knowledge of methods, variables, and analysis is tested through written questions.
+Required practical questions are worth at least 15% of marks in written exams. Students do not sit a separate practical exam (except WJEC): instead, their knowledge of methods, variables, and analysis is tested through written questions.
 
 ---
 
@@ -10,7 +10,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 ---
 
-### Practical 1 — Specific Heat Capacity
+### Practical 1: Specific Heat Capacity
 
 **Topic:** Energy
 
@@ -28,12 +28,12 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 **Common exam questions:**
 - "Why should the heater be embedded in the centre of the block?"
-- "Why was oil placed around the thermometer hole?" (to ensure good thermal contact)
-- "Suggest a source of error" — heat loss to surroundings; improve by insulating the block
+- "Why was oil placed around the thermometer hole?" (to give good thermal contact)
+- "Suggest a source of error": heat loss to surroundings; improve by insulating the block
 
 ---
 
-### Practical 2 — Thermal Insulators (Physics only)
+### Practical 2: Thermal Insulators (Physics only)
 
 **Topic:** Energy
 
@@ -53,7 +53,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 ---
 
-### Practical 3 — Resistance Investigation
+### Practical 3: Resistance Investigation
 
 **Topic:** Electricity
 
@@ -78,7 +78,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 ---
 
-### Practical 4 — I-V Characteristics
+### Practical 4: I-V Characteristics
 
 **Topic:** Electricity
 
@@ -86,7 +86,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 1. Build circuit with variable resistor (rheostat), ammeter in series, voltmeter in parallel, and the component under test
 2. Vary voltage using the rheostat; record pairs of current and voltage values
 3. Repeat reversing the polarity of the supply (especially important for diodes)
-4. Plot I-V graph for: fixed resistor (straight line through origin), filament lamp (curved — resistance increases with temperature), diode (conducts one way only)
+4. Plot I-V graph for: fixed resistor (straight line through origin), filament lamp (curved. Resistance increases with temperature), diode (conducts one way only)
 
 **Key variables:**
 - Independent: potential difference across component
@@ -94,12 +94,12 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 - Control: temperature (for fixed resistor test); the component being tested
 
 **Common exam questions:**
-- "Describe the I-V graph for a filament lamp and explain its shape" — S-shaped curve; resistance increases as temperature increases because the tungsten filament heats up
-- "Why does a diode have almost zero current for negative voltage?" — it only allows current in one direction
+- "Describe the I-V graph for a filament lamp and explain its shape": S-shaped curve; resistance increases as temperature increases because the tungsten filament heats up
+- "Why does a diode have almost zero current for negative voltage?": it only allows current in one direction
 
 ---
 
-### Practical 5 — Density
+### Practical 5: Density
 
 **Topic:** Particle Model of Matter
 
@@ -124,7 +124,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 ---
 
-### Practical 6 — Force and Extension (Hooke's Law)
+### Practical 6: Force and Extension (Hooke's Law)
 
 **Topic:** Forces
 
@@ -141,13 +141,13 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 - Control: same spring; measurements taken after spring stops oscillating
 
 **Common exam questions:**
-- "What does the gradient of the linear section of the graph represent?" — spring constant k
-- "What is the elastic limit?" — the point beyond which the spring does not return to its original length
+- "What does the gradient of the linear section of the graph represent?": spring constant k
+- "What is the elastic limit?": the point beyond which the spring does not return to its original length
 - "Why should the student allow the spring to settle before taking a reading?" (reduce error from oscillation)
 
 ---
 
-### Practical 7 — Acceleration (Newton's Second Law)
+### Practical 7: Acceleration (Newton's Second Law)
 
 **Topic:** Forces
 
@@ -169,7 +169,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 ---
 
-### Practical 8 — Waves
+### Practical 8: Waves
 
 **Topic:** Waves
 
@@ -180,7 +180,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 4. Measure frequency (waves per second using stroboscope or slow-motion video)
 5. Calculate wave speed: v = f x lambda
 
-**What to do (waves in a solid — slinky or stretched string):**
+**What to do (waves in a solid: slinky or stretched string):**
 1. Create standing waves on a string fixed at both ends
 2. Adjust frequency and tension until distinct nodes/antinodes form
 3. Measure wavelength from node-to-node distances
@@ -191,7 +191,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 ---
 
-### Practical 9 — Light: Reflection and Refraction (Physics only)
+### Practical 9: Light: Reflection and Refraction (Physics only)
 
 **Topic:** Waves
 
@@ -205,7 +205,7 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 1. Place glass block on paper and trace its outline
 2. Direct a ray at one face; mark the incident and emergent rays
 3. Draw normals and measure angle of incidence (in air) and angle of refraction (in glass)
-4. Observe that the ray bends toward the normal when entering the denser medium
+4. Observe that the ray bends towards the normal when entering the denser medium
 
 **Common exam questions:**
 - "The beam bends towards the normal on entering the glass block. Explain why." (light slows down in a denser medium)
@@ -213,17 +213,17 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 ---
 
-### Practical 10 — Radiation and Absorption (Infrared)
+### Practical 10: Radiation and Absorption (Infrared)
 
 **Topic:** Energy / Waves
 
 **What to do:**
 1. Fill cans with hot water; fit with different surface treatments (shiny silver, dull black, white, etc.)
 2. Monitor temperature of water over time using thermometers or temperature sensors
-3. Compare cooling rates — dull black surfaces radiate and absorb best; shiny silver surfaces are poorest emitters/absorbers
+3. Compare cooling rates: dull black surfaces radiate and absorb best; shiny silver surfaces are poorest emitters/absorbers
 
 **Common exam questions:**
-- "Which surface cools fastest?" (dull/matt black — best emitter of infrared)
+- "Which surface cools fastest?" (dull/matt black: best emitter of infrared)
 - "Explain why a silver surface is used on survival blankets." (reflects IR radiation back to the body, reducing heat loss)
 
 ---
@@ -232,27 +232,27 @@ AQA has 10 required practicals for separate GCSE Physics (some are also in Combi
 
 Edexcel specifies 8 core practicals:
 
-1. **Force, mass and acceleration** — Newton's Second Law investigation with trolleys
-2. **Waves in solids and fluids** — measuring speed, frequency, and wavelength
-3. **Refraction** — investigation using rectangular glass blocks
-4. **Thermal energy** — investigating infrared absorption and emission with different surfaces
-5. **Electrical circuits** — I-V characteristics and series/parallel circuit investigation
-6. **Densities** — measuring densities of solids and liquids
-7. **Properties of water** — specific heat capacity of water and temperature-time graph for melting ice
-8. **Springs** — force-extension graph and calculating elastic potential energy
+1. **Force, mass and acceleration**: Newton's Second Law investigation with trolleys
+2. **Waves in solids and fluids**: measuring speed, frequency, and wavelength
+3. **Refraction**: investigation using rectangular glass blocks
+4. **Thermal energy**: investigating infrared absorption and emission with different surfaces
+5. **Electrical circuits**: I-V characteristics and series/parallel circuit investigation
+6. **Densities**: measuring densities of solids and liquids
+7. **Properties of water**: specific heat capacity of water and temperature-time graph for melting ice
+8. **Springs**: force-extension graph and calculating elastic potential energy
 
 ---
 
 ## OCR Practical Activity Groups (PAGs)
 
-OCR uses 8 Practical Activity Groups — schools choose specific activities within each group:
+OCR uses 8 Practical Activity Groups: schools choose specific activities within each group:
 
 | PAG | Theme | Example activity |
 |-----|-------|-----------------|
 | PAG 1 | Materials | Measuring density of solid and liquid objects |
-| PAG 2 | Forces | Hooke's Law — force-extension graph for a spring |
-| PAG 3 | Motion | Ramp investigation — acceleration vs. force |
-| PAG 4 | Measuring waves | Ripple tank — measuring wave speed, frequency, wavelength |
+| PAG 2 | Forces | Hooke's Law: force-extension graph for a spring |
+| PAG 3 | Motion | Ramp investigation: acceleration vs. force |
+| PAG 4 | Measuring waves | Ripple tank: measuring wave speed, frequency, wavelength |
 | PAG 5 | Energy | Specific heat capacity of a metal block |
 | PAG 6 | Circuit components | I-V characteristics of resistors, lamps, diodes |
 | PAG 7 | Series and parallel circuits | Comparing brightness and current in series vs. parallel |
@@ -264,12 +264,12 @@ OCR uses 8 Practical Activity Groups — schools choose specific activities with
 
 WJEC assesses practical work through a dedicated Unit 3 practical exam (10% of qualification):
 
-1. **Heat transfer** — investigating conduction, convection, and radiation
-2. **Density** — measuring density of liquids and regular/irregular solids
-3. **Specific heat capacity** — determining specific heat capacity of a material
-4. **Transformers** — investigating input/output of an iron-cored transformer
-5. **Terminal speed** — investigating terminal speed of a falling object
-6. **Force and extension** — Hooke's Law investigation (force-extension graph)
-7. **Principle of Moments** — balanced metre rule investigation
-8. **Radioactive decay simulation** — half-life using dice to model random decay
-9. **I-V characteristics and energy efficiency** — circuit investigation and kettle efficiency
+1. **Heat transfer**: investigating conduction, convection, and radiation
+2. **Density**: measuring density of liquids and regular/irregular solids
+3. **Specific heat capacity**: determining specific heat capacity of a material
+4. **Transformers**: investigating input/output of an iron-cored transformer
+5. **Terminal speed**: investigating terminal speed of a falling object
+6. **Force and extension**: Hooke's Law investigation (force-extension graph)
+7. **Principle of Moments**: balanced metre rule investigation
+8. **Radioactive decay simulation**: half-life using dice to model random decay
+9. **I-V characteristics and energy efficiency**: circuit investigation and kettle efficiency
